@@ -1,0 +1,18 @@
+# Rizikové prémie (risk premia)
+
+Za podstupovanie rôznych rizík dostaváte rôznu odmenu. Treba si uvedomiť, že tu ide o _očakávanú odmenu/výnos_, skutočný (realizovaný) výnos môže nakoniec byť aj výrazne odlišný. Táto odmena nemusí byť vždy pozitívna, napr. ak sa rozhodnete prebiehať ako chodec cez diaľnicu, sotva od toho možno čakať niečo pozitívne. Odmenu (v pozitívnom slova zmysle) by ste mali očakávať len za inteligentné nesenie rizík, o ktorých je známe, že očakávaný výnos je pozitívny. Napr. kúpiť si žreb v lotérii znamená podstúpiť riziko, ale očakávaná odmena je negatívna (prevádzkovateľ viac vyberie na vkladoch do lotérie než vyplatí na výhrach).
+
+Príklady rizík, kde možno očakávať pozitívny výnos za ich podstúpenie:
+* _equity risk premium_: investujeme do akcií na burze, čiže do podnikov prevádzkovaných inými ľuďmi (historicky [cca 3 až 12% ročne](https://www.investopedia.com/ask/answers/040715/what-historical-market-risk-premium.asp))
+* _credit risk premium_: ak požičiame peniaze firme, ktoré môže skrachovať (a nie štátu v mene, nad ktorou má kontrolu, teda si vytlačí peňazí, koľko chce), mali by sme za to dostať viac než vynesú štátne dlhopisy ([historicky cca 1-2%](https://www.aqr.com/Insights/Research/Journal-Article/The-Credit-Risk-Premium))
+* _term premium_: ak požičiame peniaze na dlhú dobu, vystavujeme sa nepredvídateľným zmenám vo svete viac, ako keď požičiame na kratšiu dobu, čo si tiež zaslúži odmenu (jej výška sa v čase veľmi mení a za istých okolností [môže byť aj záporná](https://www.investopedia.com/terms/y/yieldcurve.asp))
+* _illiquidity premium_: majetok (aktíva/assets), ktorý nemožno ľahko zameniť za hotovosť, majú o niečo vyššie očakávané výnosy (predstavujte si niečo ako 1-2%, závisí od množstva okolností)
+
+Pozor: "možno očakávať" neznamená, že by výnos bol garantovaný; svet sa môže zmeniť a historické dáta sa nie vždy hodia ako základ pre predpovede budúcnosti. (Zvieratá slúžili ako dopravný prostriedok tisícročia, ale nakoniec ich vytlačili autá.)
+
+Riziková prémia súvisí s cenou aktíva: čím lacnejšie niečo kúpite, tým väčší je očakávaný výnos, čiže daná cena zodpovedá väčšej rizikovej prémii. Príklad: dlhopis D komerčnej firmy sa predáva za 100 a má fixný výnos 3, čiže 3%. Ak majú vtedy bezpečné štátne dlhopisy výnos 1%, tak dlhopis D má credit risk premium 3% - 1% = 2% --- o toľko viac požadujú investori za nesenie kreditného rizika, čiže rizika, že emitent (firma, čo vydala D) skrachuje. Ak by sa dlhopis predával za 50, výnos by bol 3/50 = 6%, čiže riziková prémia by bola 5%.
+
+Cez rizikové prémie možno čiastočne vysvetliť aj poklesy na trhu s cennými papiermi. Ak si investori doteraz vystačili s rizikovou prémiou povedzme 5%, ale nové informácie spôsobia, že začnú požadovať rizikovú prémiu 10% (lebo riziká narástli), dôjde k veľkému poklesu cien, pokojne aj o polovicu.
+
+Ak idete investovať do jednotlivých cenných papierov a nie priemeru celého trhu, musíte si rizikové prémie starostlivo strážiť, pretože neraz sú nastavené chybne, čiže nezodpovedajú riziku: ponúkaný výnos, resp. riziková prémia, je primalý (resp. priveľký --- to však zriedka). Napríklad keď lokálne slovenské skupiny ako Arca Capital ponúkajú drobným investorom svoje dlhopisy, ich výnos je o niekoľko percent nižší, než výnos dlhopisov obchodovaných na burze v iných krajinách --- a to tie iné dlhopisy majú neraz oveľa vyššiu kvalitu (čiže nižšie riziko). Je namieste pýtať sa, prečo vám niekto nejakú investíciu ponúka --- predaj drobným investorom je spojený s nákladmi (byrokracia so zmluvami atď.), a keďže sotva to robí preto, aby vám daroval peniaze, jediná možnosť je, že investíciu ponúka vám, lebo nik iný (napr. banky, veľké inštitúcie či iní sofistikovaní a skúsení investori) o ňu záujem nemá.
+

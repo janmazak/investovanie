@@ -4,23 +4,38 @@ Tento text má ambíciu byť stručným úvodom do investovania všeobecne a zá
 
 Hoci na prvé prečítanie môže pôsobiť zložito, nebojte sa. To, čo potrebujete vykonať na usporiadanie si finačných záležitostí, je vlastne veľmi jednoduché (povieme si neskôr). Je však kriticky dôležité rozumieť, _prečo_ konať práve takto, pretože musíte emocionálne i racionálne ustáť meniace sa okolnosti, a chápať, v ktorých prípadoch treba v živote spraviť zmeny (a aké --- [ukážka](https://www.newretirement.com/retirement/podcast-episode-35-larry-swedroe-successful-secure-retirement/)).
 
+## Ako investovať?
+
+Tento stručný návod pokrýva potreby veľkej časti populácie. Viac detailov a vysvetlení nájdete v ďalšom texte.
+
+1. Naučte sa míňať menej, ako zarobíte, splatťe všetky dlhy s vysokým úrokom a vytvorte si rezervný fond aspoň na úrovni 2-násobku mesačných príjmov.
+2. Pripravte si na investovanie aspoň niekoľko sto eur (suma musí byť dostatočná na minimálny vklad a dosť veľká na vyváženie minimálneho poplatku za obchod na burze).
+3. Zriaďte si účet u [nízkonákladového online brokera](https://uspesnynaburze.sk/najlepsi-etf-broker/), ktorý umožňuje obchodovať indexové fondy v podobe ETF (napr. [XTB](https://www.xtb.com/sk) či [IBKR](https://finfin.sk/interactive-brokers-recenzia/)).
+4. Preveďte peniaze k brokerovi (odporúčam zvoliť si takého, kde sa to dá spraviť bezplatným SEPA prevodom).
+5. Nakúpte za všetky peniaze široko diverzifikovaný indexový fond, napr. [ETF sledujúce index MSCI World](https://www.ishares.com/uk/individual/en/products/251882/ishares-msci-world-ucits-etf-acc-fund). Stačí pár kliknutí.
+6. Keď znova našetríte ďalšie peniaze (napr. za mesiac či štvrťrok), investujte ich takisto.
+
+Kroky 3 až 5 môžu byť nahradené investovaním cez finančnú inštitúciu či sprostredkovateľa, napr. [SLSP](https://www.slsp.sk/sk/ludia/investovanie/etf-fondy) alebo 3. pilier (napr. [NN](https://www.financnykompas.sk/dochodok-3-pilier) tam má indexový fond). Je to však zvyčajne poplatkovo menej výhodné; dajte si pozor najmä na poplatky platené opakovane (napr. každý rok), ich efekt sa za desaťročia prejaví oveľa výraznejšie, než sa zdá na prvý pohľad (za 30-40 rokov môžete mať aj štvrtinu peňazí menej).
+
 ## Prečo investovať peniaze do rizikovejších aktív
 
 Vďaka vyspelej európskej spoločnosti možno peniaze bezpečne držať na účte či termínovanom vklade v banke, so štátom garantovanou ochranou vkladov. S tým sú spojené dva problémy:
-1. Keďže riziko je minimálne, nemožno čakať veľké výnosy --- ľudia bohatnú takmer výlučne vďaka tomu, že podstupujú riziko, a za to dostávajú [_rizikovú prémiu_](./risk_premia.md) (risk premium).
-2. Inflácia --- pôvodný vyznam tohto slova je rast peňažnej zásoby (inflation, nafukovanie), ale dnes sa využíva najmä na vyjadrenie rastu cien. To s rastom peňažnej zásoby dosť úzko súvisí: keď je množstvo tovaru obmedzené, a peňazí pribúda, ceny rastú, lebo peniaze sú relatívne menej hodnotné; toto sa niekedy prejaví v raste cien spotrebiteľských tovarov, inokedy napríklad v raste cien nehnuteľností (a ešte sú tu výnimky ako Japonsko, kde napriek všetkému pridávaniu peňazí do systému ceny nerástli vyše 20 rokov, ale už aj na nich v r. 2022 došlo).
+1. Keďže riziko je minimálne, nemožno čakať veľké výnosy --- ľudia bohatnú takmer výlučne vďaka tomu, že podstupujú riziko, a za to dostávajú [_rizikovú prémiu_](./risk_premia.md) (risk premium; tento pojem je jeden z kľúčových).
+2. Inflácia --- pôvodný vyznam tohto slova je rast peňažnej zásoby (inflation, nafukovanie), ale dnes sa využíva najmä na vyjadrenie rastu cien. Ten s rastom peňažnej zásoby dosť úzko súvisí: keď je množstvo tovaru obmedzené, a peňazí pribúda, ceny rastú, lebo peniaze sú relatívne menej hodnotné; toto sa niekedy prejaví v raste cien spotrebiteľských tovarov, inokedy napríklad v raste cien nehnuteľností (a ešte sú tu výnimky ako Japonsko, kde napriek všetkému pridávaniu peňazí do systému ceny nerástli vyše 20 rokov, ale už aj na nich v r. 2022 došlo).
 
 Je kľúčové uvedomiť si, že hocijako máte majetok uložený, nejaké riziká podstupujete, a to aj keď o nich neviete. "Neinvestovať" a nechať peniaze v hotovosti doma či na účte v banke znamená, že podstupujete veľké riziko, že vám ich znehodnotí inflácia; naopak vyhýbate sa trebárs podnikateľskému riziku. Dokonca aj nemať žiaden majetok, či mať viac dlžôb ako majetku, znamená podstupovanie finančných rizík (potrebujete v budúcnosti z niečoho žiť). 
 
 >	Dívajte sa preto aj na neaktivitu ako na vedomé rozhodnutie (zväčša chybné).
 
-Typický príklad neaktivity: ak nešetrím nič na dôchodok, úplne sa spolieham na štát, že ma nenechá umrieť hladom. To možno áno, ale životný štandard bude mizerný kvôli demografii (veľa dôchodcov a málo pracujúcich). Oveľa viac dáva zmysel riziko rozložiť, napr. vstupom do indexového fondu v 2. pilieri, a k tomu ešte usporiť aj čosi navyše a investovať to mimo štátnych schém, najlepšie v zahraničí.
+Typický príklad neaktivity: ak nešetrím nič na dôchodok, úplne sa spolieham na štát, že ma nenechá umrieť hladom. To možno áno, ale životný štandard bude mizerný kvôli demografii (veľa dôchodcov a málo pracujúcich). Oveľa viac dáva zmysel riziko rozložiť, napr. vstupom do indexového fondu v 2. pilieri, a k tomu ešte usporiť aj čosi navyše a investovať to mimo štátnych schém, najlepšie v zahraničí (na rozdiel od štátneho dôchodku tento majetok možno zanechať dedičom).
 
-Na rozdiel od dávnej i nedávnej histórie dnes možno elegantne a jednoducho investovať do široko diverzifikovaného portfólia akcií (podielov vo firmách), ktoré pokrývajú takmer každú oblasť ľudskej činnosti a takmer každý typ finančného či reálneho majetku. Nemožno sa už preto vyhovárať, že ste takú možnosť nemali.
+Na rozdiel od dávnej i nedávnej histórie dnes možno elegantne a jednoducho investovať do široko diverzifikovaného portfólia akcií (podielov vo firmách), ktoré pokrývajú takmer každú oblasť ľudskej činnosti a takmer každý typ finančného či reálneho majetku. Nemožno sa už preto vyhovárať, že ste takú možnosť nemali. Výhodou širokej diverzifikácie je to, že nemusíte nič sledovať, ani rozumieť žiadnym detailom. Stúpne cena ropy? Dobre pre vašich producentov ropy, zle pre dopravcov a chemický priemysel. Klesne cena ropy? Tak zase naopak. Vlastníte jedných aj druhých a teda je vám to jedno.
+
+Pri akciách možno očakávať výnos cca 5-12% ročne bez neprimeraného rizika (čo je najviac spomedzi bežne dostupných možností) a nevyžaduje si to žiadne špecifické znalosti ani úsilie. Jedinou nevýhodou sú pomerne veľké výkyvy trhových cien akcií, z čoho vyplýva, že do nich možno investovať len s horizontom 10-20 rokov.
 
 #### Vlastníte viac, než sa zdá
 
-Ak máte dojem, že vašich pár tisíc eur úspor je všetko, čo vlastníte, a bojíte sa to investovať, pozrite sa na to zo širšej perspektívy. Modelový príklad pre mladého človeka: vlastní byt za 200 000 eur s hypotékou 150 000 (čiže čistý majetok v nehnuteľnosti 50 000), má v hotovosti 30 000 eur, a súčasná hodnota jeho budúcich príjmov je 200 000 eur (súčet jeho budúcich miezd so zohľadnením toho, že budúce peniaze sú menej hodnotné ako súčasné). Ak zvažuje investíciu 20 000 eur do akcií (podielov v cudzích firmách), zdá sa to ako 2/3 jeho úspor, ide však o menej ako desatinu toho, čo má (20 000 z 280 000). Jeho kapitál (a rizikový profil) je tak výrazne nevyvážený: napr. má oveľa viac peňazí v jedinej nehnuteľnosti než vo všetkých ostatných finančných aktívach dokopy.
+Ak máte dojem, že vašich pár tisíc eur úspor je všetko, čo vlastníte, a bojíte sa to investovať, pozrite sa na to zo širšej perspektívy. Modelový príklad pre mladého človeka: vlastní byt za 200 000 eur s hypotékou 150 000 (čiže čistý majetok v nehnuteľnosti 50 000), má v hotovosti 30 000 eur, a súčasná hodnota jeho budúcich príjmov je 200 000 eur (súčet jeho budúcich miezd so zohľadnením toho, že budúce peniaze sú menej hodnotné ako súčasné). Ak zvažuje investíciu 20 000 eur do akcií (podielov v cudzích firmách), zdá sa to ako 2/3 jeho úspor, ide však o menej ako desatinu toho, čo má (20 000 z 280 000). Jeho kapitál (a rizikový profil) je bez investovania do akcií výrazne nevyvážený: napr. má oveľa viac peňazí v jedinej nehnuteľnosti (aj so všetkými súvisiacimi rizikami) než vo všetkých ostatných finančných aktívach dokopy.
 
 Na okraj: investovať do zvýšenia budúceho príjmu sebavzdelávaním môže byť jedna z najlepších investícií aj v čisto finančnom zmysle, keďže budúce príjmy typicky tvoria výraznú väčšinu majetku mladých ľudí.
 
@@ -28,14 +43,21 @@ Na okraj: investovať do zvýšenia budúceho príjmu sebavzdelávaním môže b
 
 Investovanie úzko súvisí s inými veľkými životnými rozhodnutiami a je v prvom rade o manažmente a kontrole rizík, ktoré podstupujete, až potom o výnosoch.
 
-Vlastníctvo výrobných prostriedkov bolo odnepamäti výhodné, bez ohľadu na režim či spôsob fungovania ľudskej spoločnosti. Vojny, revolúcie, zásahy mocnejších či prírodné katastrofy však môžu viesť k znehodnoteniu majetku, preto chcete vlastniť veľa rôznych vecí po celom svete (_diverzifikácia_ rizika). Je možné, že veľmi úzko profilovaná investícia ponúka oveľa vačšie výnosy než hocičo iné, ale dať do nej všetky peniaze nie je rozumné; ako hovorieva jeden z najbohatších ľudí na svete W. Buffett:
+Vlastníctvo výrobných prostriedkov bolo odnepamäti výhodné, bez ohľadu na režim či spôsob fungovania ľudskej spoločnosti. Vojny, revolúcie, zásahy mocnejších či prírodné katastrofy však môžu viesť k znehodnoteniu majetku, preto chcete vlastniť veľa rôznych vecí po celom svete (_diverzifikácia_ rizika). Je možné, že veľmi úzko profilovaná investícia ponúka oveľa vačšie výnosy než hocičo iné, ale dať do nej všetky peniaze nie je rozumné. Ako hovorieva jeden z najbohatších ľudí na svete W. Buffett:
 >	In order to finish first, you must first finish.
 
 >	Over the years, a number of very smart people have learned the hard way that a long stream of impressive numbers multiplied by a single zero always equals zero.
 
-Proste aby ste mali šancu dostať sa do cieľa, musíte sa vyhnúť po ceste krachu. Súvisiacemu konceptu sa hovorí _tail risk_: netreba zabúdať na nepravdepodobné udalosti s veľkým negatívnym efektom. 
+Proste aby ste mali šancu dostať sa do cieľa, musíte sa vyhnúť po ceste krachu. Preto treba veľmi opatrne pristupovať k investovaniu požičaných peňazí, najmä ak ide o pôžičku, ktorá je splatná v krátkej dobe (sem patrí aj využívanie _margin account_ u brokera či short-term trading s využitím páky). Asi jediný dlh, ktorý sa neoplatí splácať (a radšej peniaze investovať do akcií), je hypotéka. Ešte jeden citát od Buffetta:
+> My partner Charlie says there is only three ways a smart person can go broke: liquor, ladies and leverage. Now the truth is — the first two he just added because they started with L — it’s leverage.
+
+> But leverage is addictive. Once having profited from its wonders, very few people retreat to more conservative practices. And as we all learned in third grade — and some relearned in 2008 — any series of positive numbers, however impressive the numbers may be, evaporates when multiplied by a single zero.
+
+Súvisiacemu konceptu sa hovorí _tail risk_: netreba zabúdať na nepravdepodobné udalosti s veľkým negatívnym efektom. (Odporúčam prečítať si na túto tému knihy zo série [Incerto](https://www.fooledbyrandomness.com/) od N. Taleba.)
 
 Obavy z neistej budúcnosti možno celkom dobre riešiť poistením a prípravou alternatívnych finančných plánov (spôsoby redukcie výdavkov v prípade nutnosti). Investovať bez zmysluplného celkového finančného plánu je hlúpe.
+
+V špecifických osobných situáciách viete investovaním oslabiť riziká, ktoré by vám inak hrozili. Napr. ak sa živíte ako autodopravca a hradíte náklady na palivo, môžete zvážiť nakúpiť na burze firmy ťažiace ropu či rafinérie. Ak ako zamestnanec dostávate od svojho zamestnávateľa akcie, môžete to kompenzovať investovaním väčšieho podielu do iných odvetví. Ak vlastníte nehnuteľnosti v nejakej krajine, môžete naopak nakúpiť z tejto krajiny menej akcií. Ak ste spotrebiteľ na Slovensku, väčšina výrobkov sa dováža, a ich ceny závisia od výmenného kurzu eura voči iným menám; vlastníctvo akcií v iných menách kompenzuje riziko poklesu eura (čiže rastu spotrebiteľských cien).
 
 ## Koľko a kam investovať?
 
@@ -59,7 +81,7 @@ Vyjadruje psychologickú inklináciu k podstupovaniu finančného rizika. Teda �
 Ak máte desať miliónov a žiadne dlhy, máte po (finančných) starostiach a riziko niesť nepotrebujete. Podobne ak máte bývanie bez hypotéky, niekoľko stotisíc v hotovosti a štátny dôchodok 1000 eur, ktorý rastie s infláciou. Naopak, ak nemáte žiaden majetok, žiaden štátom garantovaný dôchodok a váš príjem je nevysoký (ušetríte mesačne len málo), neostáva vám iné, než vystaviť vaše úspory pomerne veľkému riziku, aby ste mali šancu našetriť si na dôchodok a neumrieť vo vyššom veku od hladu.
 Z finančného hľadiska nedáva veľký zmysel podstupovať riziko, ak nepotrebujete vyšší očakávaný výnos (nemáte z neho významný úžitok).
 
-V týchto troch veciach by ste mali mať jasno skôr, než si spravíte životný finačný plán. Ak podstúpite viac rizika, ako naznačujú vaše ability, willingness a need, a toto riziko sa realizuje (t.j. prídete o peniaze), spôsobíte si zbytočne vážny problém.
+V týchto troch veciach by ste mali mať jasno skôr, než si spravíte životný finačný plán. Ak podstúpite viac rizika, ako zodpovedá vašim ability, willingness a need, a toto riziko sa realizuje (t.j. prídete o peniaze), spôsobíte si zbytočne vážny problém.
 
 ### Čo optimalizujeme?
 
@@ -81,10 +103,12 @@ Dávajte tiež pozor, že pri hodnotení rozhodnutia možno zohľadňovať len i
 Taktiež by ste nemali zabúdať pri rozhodovaní hľadieť dopredu: je jedno, koľko ste niečomu venovali času či úsilia v minulosti (sunken cost fallacy), podstatné je, čo možno čakať v budúcnosti. Podobne nemožno naivne zovšeobecňovať historické výnosy akcií či podielových fondov: mnoho vecí skôr vykazuje [_mean reversion_](https://www.investopedia.com/terms/m/meanreversion.asp), čiže aktíva, ktorým sa v posledných rokoch darilo zle, majú sklon vykazovať vyššie výnosy ako tie, ktorým sa darilo dobre.
 
 
-
+Never bet on the end of the world, you'll only be right once and you won't be able to collect.
 
 diverzifikacia
 tail risk
 future as scenarios
 poistenie
+
+dont henge currency when investing in stocks
 

@@ -39,6 +39,10 @@ Ak máte dojem, že vašich pár tisíc eur úspor je všetko, čo vlastníte, a
 
 Na okraj: investovať do zvýšenia budúceho príjmu sebavzdelávaním môže byť jedna z najlepších investícií aj v čisto finančnom zmysle, keďže budúce príjmy typicky tvoria výraznú väčšinu majetku mladých ľudí.
 
+TODO o vlastneni nehnutelnosti, navyse v krajine, kde clovek pracuje; regionalna diverzifikacia (priklady: Ukrajina, latinska amerika, Detroit, 1/3 prazdnych domov Japonsku...) --- avoid tail risk, diversify, do not aim to only maximize returns without risk control
+
+
+
 ## Manažovanie rizika (risk control / management)
 
 Investovanie úzko súvisí s inými veľkými životnými rozhodnutiami a je v prvom rade o manažmente a kontrole rizík, ktoré podstupujete, až potom o výnosoch.
@@ -111,4 +115,30 @@ future as scenarios
 poistenie
 
 dont henge currency when investing in stocks
+
+costs of going public went up in the US, so only rather large us stocks are on the market (~billion or more before IPO), so having some allocation to leading private equity might make sense from the diversification standpoint (to have allocation to innovation etc.)
+https://youtu.be/qlUlSAe1Uqw
+
+narratives from gurus are dangerous, it's almost never different, and even when it is, no one knows in advance reliably (you can always find a guru with the opposite of any given opinion)
+
+extremely important to stick with good decisions, e.g. don't change asset allocation every couple of years, let alone weekly
+
+ok to have enjoyment money, but generally you want a real life, not trying to find enjoyment by playing the stock market
+
+most stocks underperform (median return is much lower than mean, so you want to own all stocks?...) 
+
+(smart beta mirage)
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3622753
+
+Dobrý deň
+čítal som si Váš text o investovaní a musím povedať že je naozaj pekne spracovaný. No napadlo mi že by bolo celkom fajn tam možno dodať do časti "Koľko a kam investovať?" aj nejaký odstavec na tému knowledge/experiences pretože ľudia sa možno aj rozhodnú investovať no niekedy si výberu cestu pre pokročilejšieho investora. Začnú kupovať impulzívne akcie(stock picking) iba na základe toho že tu danú firmu poznajú a nepozerajú na nejakú fair value. Tiež neskúsený/začínajúci investor je náchylnejší na veci ako FOMO,Pump-and-Dump alebo dokonca rug pull. Tieto všetky veci hádžu negatívne svetlo na investovanie a to iba na základe toho že investor precenil svoje vedomosti/schopnosti.
+Asi nejako takto by som to veľmi stručne opísal.
+No chcem ešte povedať že Váš text je pekne napísaný a výstižný.
+Prajem pekný deň.
+
+play
+https://elmwealth.com/coin-flip/game/
+https://elmwealth.com/lessons-from-betting-on-a-biased-coin-cool-heads-and-cautionary-tales/
+
+50 Visuals Every Investor Should Memorize eBook 
 

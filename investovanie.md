@@ -1,6 +1,6 @@
 # Praktický pohľad na investovanie (najmä z pohľadu Európana)
 
-Tento text má ambíciu byť stručným úvodom do investovania všeobecne a zároveň ponúknuť praktické rady, ako možno rozumne investovať v Európe. Predpokladá u čitateľa všeobecný rozhľad v oblasti financií a využíva aj anglické či odbornejšie výrazy (ktoré umožnia čitateľovi dohľadať si súvislosti na internete). Použité príklady produktov slúžia na ilustračné účely (nemusia byť najlepšie svojho typu; boli vybraté ako autorovi na myseľ prišlo).
+Tento text má ambíciu byť stručným úvodom do investovania všeobecne a zároveň ponúknuť praktické rady, ako možno rozumne investovať v Európe. Predpokladá u čitateľa všeobecný rozhľad v oblasti financií a využíva aj anglické či odbornejšie výrazy (ktoré umožnia čitateľovi dohľadať si súvislosti na internete). Použité príklady finančných produktov slúžia na ilustračné účely (nemusia byť najlepšie svojho typu; poplatky sa v čase menia a nové lepšie veci pribúdajú).
 
 Hoci na prvé prečítanie môže pôsobiť zložito, nebojte sa. To, čo potrebujete vykonať na usporiadanie si finačných záležitostí, je vlastne veľmi jednoduché (povieme si neskôr). Je však kriticky dôležité rozumieť, _prečo_ konať práve takto, pretože musíte emocionálne i racionálne ustáť meniace sa okolnosti, a chápať, v ktorých prípadoch treba v živote spraviť zmeny (a aké --- [ukážka](https://www.newretirement.com/retirement/podcast-episode-35-larry-swedroe-successful-secure-retirement/)).
 
@@ -8,30 +8,31 @@ Hoci na prvé prečítanie môže pôsobiť zložito, nebojte sa. To, čo potreb
 
 Tento stručný návod pokrýva potreby veľkej časti populácie. Viac detailov a vysvetlení nájdete v ďalšom texte.
 
-1. Naučte sa míňať menej, ako zarobíte, splatťe všetky dlhy s vysokým úrokom a vytvorte si rezervný fond aspoň na úrovni 2-násobku mesačných príjmov.
+1. Naučte sa míňať menej, ako zarobíte, splaťte všetky dlhy s vysokým úrokom (vyššie ako úroky na hypotékach) a vytvorte si rezervný fond aspoň na úrovni 3-násobku mesačných príjmov.
 2. Pripravte si na investovanie aspoň niekoľko sto eur (suma musí byť dostatočná na minimálny vklad a dosť veľká na vyváženie minimálneho poplatku za obchod na burze).
 3. Zriaďte si účet u [nízkonákladového online brokera](https://uspesnynaburze.sk/najlepsi-etf-broker/), ktorý umožňuje obchodovať indexové fondy v podobe ETF (napr. [XTB](https://www.xtb.com/sk) či [IBKR](https://finfin.sk/interactive-brokers-recenzia/)).
 4. Preveďte peniaze k brokerovi (odporúčam zvoliť si takého, kde sa to dá spraviť bezplatným SEPA prevodom).
 5. Nakúpte za všetky peniaze široko diverzifikovaný indexový fond, napr. [ETF sledujúce index MSCI World](https://www.ishares.com/uk/individual/en/products/251882/ishares-msci-world-ucits-etf-acc-fund). Stačí pár kliknutí.
-6. Keď znova našetríte ďalšie peniaze (napr. za mesiac či štvrťrok), investujte ich takisto.
+6. Keď znova našetríte ďalšie peniaze (napr. za mesiac či štvrťrok), investujte ich tak isto.
+7. Investície nepredávajte (okrem vynútených prípadov, napr. súvisiacich s úmrtím v rodine).
 
 Kroky 3 až 5 môžu byť nahradené investovaním cez finančnú inštitúciu či sprostredkovateľa, napr. [SLSP](https://www.slsp.sk/sk/ludia/investovanie/etf-fondy) alebo 3. pilier (napr. [NN](https://www.financnykompas.sk/dochodok-3-pilier) tam má indexový fond). Je to však zvyčajne poplatkovo menej výhodné; dajte si pozor najmä na poplatky platené opakovane (napr. každý rok), ich efekt sa za desaťročia prejaví oveľa výraznejšie, než sa zdá na prvý pohľad (za 30-40 rokov môžete mať aj štvrtinu peňazí menej).
 
 ## Prečo investovať peniaze do rizikovejších aktív
 
 Vďaka vyspelej európskej spoločnosti možno peniaze bezpečne držať na účte či termínovanom vklade v banke, so štátom garantovanou ochranou vkladov. S tým sú spojené dva problémy:
-1. Keďže riziko je minimálne, nemožno čakať veľké výnosy --- ľudia bohatnú takmer výlučne vďaka tomu, že podstupujú riziko, a za to dostávajú [_rizikovú prémiu_](./risk_premia.md) (risk premium; tento pojem je jeden z kľúčových).
-2. Inflácia --- pôvodný vyznam tohto slova je rast peňažnej zásoby (inflation, nafukovanie), ale dnes sa využíva najmä na vyjadrenie rastu cien. Ten s rastom peňažnej zásoby dosť úzko súvisí: keď je množstvo tovaru obmedzené, a peňazí pribúda, ceny rastú, lebo peniaze sú relatívne menej hodnotné; toto sa niekedy prejaví v raste cien spotrebiteľských tovarov, inokedy napríklad v raste cien nehnuteľností (a ešte sú tu výnimky ako Japonsko, kde napriek všetkému pridávaniu peňazí do systému ceny nerástli vyše 20 rokov, ale už aj na nich v r. 2022 došlo).
+1. Keďže riziko je minimálne, nemožno čakať veľké výnosy --- ľudia bohatnú takmer výlučne vďaka tomu, že podstupujú riziko, a za to dostávajú odmenu nazývanú[_riziková prémia_](./risk_premia.md) (risk premium; tento pojem je jeden z kľúčových).
+2. Inflácia --- pôvodný vyznam tohto slova je rast peňažnej zásoby (inflation, nafukovanie), ale dnes sa využíva najmä na vyjadrenie rastu cien. Ten s rastom peňažnej zásoby dosť úzko súvisí: keď je množstvo tovaru obmedzené a peňazí pribúda, ceny rastú, lebo peniaze sú relatívne menej hodnotné; toto sa niekedy prejaví v raste cien spotrebiteľských tovarov, inokedy napríklad v raste cien nehnuteľností (a ešte sú tu výnimky ako Japonsko, kde napriek všetkému pridávaniu peňazí do systému ceny tovarov nerástli vyše 20 rokov, ale už aj na nich v r. 2022 došlo).
 
-Je kľúčové uvedomiť si, že hocijako máte majetok uložený, nejaké riziká podstupujete, a to aj keď o nich neviete. "Neinvestovať" a nechať peniaze v hotovosti doma či na účte v banke znamená, že podstupujete veľké riziko, že vám ich znehodnotí inflácia; naopak vyhýbate sa trebárs podnikateľskému riziku. Dokonca aj nemať žiaden majetok, či mať viac dlžôb ako majetku, znamená podstupovanie finančných rizík (potrebujete v budúcnosti z niečoho žiť). 
+Je kľúčové uvedomiť si, že hocijako máte majetok uložený, nejaké riziká podstupujete, a to aj keď o nich neviete. "Neinvestovať" a nechať peniaze v hotovosti doma či na účte v banke znamená, že podstupujete veľké riziko, že vám ich znehodnotí inflácia; naopak vyhýbate sa trebárs podnikateľskému riziku. Dokonca aj nemať žiaden majetok, či mať viac dlžôb ako majetku, znamená podstupovanie finančných rizík (potrebujete v budúcnosti z niečoho žiť).
 
 >	Dívajte sa preto aj na neaktivitu ako na vedomé rozhodnutie (zväčša chybné).
 
-Typický príklad neaktivity: ak nešetrím nič na dôchodok, úplne sa spolieham na štát, že ma nenechá umrieť hladom. To možno áno, ale životný štandard bude mizerný kvôli demografii (veľa dôchodcov a málo pracujúcich). Oveľa viac dáva zmysel riziko rozložiť, napr. vstupom do indexového fondu v 2. pilieri, a k tomu ešte usporiť aj čosi navyše a investovať to mimo štátnych schém, najlepšie v zahraničí (na rozdiel od štátneho dôchodku tento majetok možno zanechať dedičom).
+Typický príklad neaktivity: ak nešetrím nič na dôchodok, úplne sa spolieham na štát, že ma nenechá umrieť hladom (prípadne príbuzných). To možno áno, ale životný štandard bude mizerný kvôli demografii (veľa dôchodcov a málo pracujúcich). Oveľa viac dáva zmysel riziko rozložiť, napr. vstupom do indexového fondu v 2. pilieri, a k tomu ešte usporiť aj čosi navyše a investovať to mimo štátnych schém, najlepšie v zahraničí (na rozdiel od štátneho dôchodku tento majetok možno zanechať dedičom).
 
 Na rozdiel od dávnej i nedávnej histórie dnes možno elegantne a jednoducho investovať do široko diverzifikovaného portfólia akcií (podielov vo firmách), ktoré pokrývajú takmer každú oblasť ľudskej činnosti a takmer každý typ finančného či reálneho majetku. Nemožno sa už preto vyhovárať, že ste takú možnosť nemali. Výhodou širokej diverzifikácie je to, že nemusíte nič sledovať, ani rozumieť žiadnym detailom. Stúpne cena ropy? Dobre pre vašich producentov ropy, zle pre dopravcov a chemický priemysel. Klesne cena ropy? Tak zase naopak. Vlastníte jedných aj druhých a teda je vám to jedno.
 
-Pri akciách možno očakávať výnos cca 5-12% ročne bez neprimeraného rizika (čo je najviac spomedzi bežne dostupných možností) a nevyžaduje si to žiadne špecifické znalosti ani úsilie. Jedinou nevýhodou sú pomerne veľké výkyvy trhových cien akcií, z čoho vyplýva, že do nich možno investovať len s horizontom 10-20 rokov.
+Pri akciách možno očakávať výnos cca 5-12% ročne bez neprimeraného rizika (čo je najviac spomedzi bežne dostupných možností) a nevyžaduje si to žiadne špecifické znalosti ani úsilie. Tento výnos je však nepravidelný: raz +20%, inokedy -30% atď. Treba rátať s veľkými výkyvmi trhových cien akcií, z čoho vyplýva, že do nich možno investovať len s horizontom aspoň 10-20 rokov (t.j. že tie peniaze vybrať skôr nijako neplánujem).
 
 #### Vlastníte viac, než sa zdá
 
@@ -39,13 +40,9 @@ Ak máte dojem, že vašich pár tisíc eur úspor je všetko, čo vlastníte, a
 
 Na okraj: investovať do zvýšenia budúceho príjmu sebavzdelávaním môže byť jedna z najlepších investícií aj v čisto finančnom zmysle, keďže budúce príjmy typicky tvoria výraznú väčšinu majetku mladých ľudí.
 
-TODO o vlastneni nehnutelnosti, navyse v krajine, kde clovek pracuje; regionalna diverzifikacia (priklady: Ukrajina, latinska amerika, Detroit, 1/3 prazdnych domov Japonsku...) --- avoid tail risk, diversify, do not aim to only maximize returns without risk control
-
-
-
 ## Manažovanie rizika (risk control / management)
 
-Investovanie úzko súvisí s inými veľkými životnými rozhodnutiami a je v prvom rade o manažmente a kontrole rizík, ktoré podstupujete, až potom o výnosoch.
+Investovanie úzko súvisí s inými veľkými životnými rozhodnutiami a je v prvom rade o manažmente a kontrole rizík, ktoré podstupujete, až potom o výnosoch. Je veľa spôsobov, ako zvýšiť očakávaný výnos za cenu výrazného zvýšenia rizika (typicky súvisia s investovaním požičaných peňazí na úrovni jednotlivca či firmy), ale zďaleka nie v každej situácii je vhodné aplikovať ich.
 
 Vlastníctvo výrobných prostriedkov bolo odnepamäti výhodné, bez ohľadu na režim či spôsob fungovania ľudskej spoločnosti. Vojny, revolúcie, zásahy mocnejších či prírodné katastrofy však môžu viesť k znehodnoteniu majetku, preto chcete vlastniť veľa rôznych vecí po celom svete (_diverzifikácia_ rizika). Je možné, že veľmi úzko profilovaná investícia ponúka oveľa vačšie výnosy než hocičo iné, ale dať do nej všetky peniaze nie je rozumné. Ako hovorieva jeden z najbohatších ľudí na svete W. Buffett:
 >	In order to finish first, you must first finish.
@@ -53,15 +50,18 @@ Vlastníctvo výrobných prostriedkov bolo odnepamäti výhodné, bez ohľadu na
 >	Over the years, a number of very smart people have learned the hard way that a long stream of impressive numbers multiplied by a single zero always equals zero.
 
 Proste aby ste mali šancu dostať sa do cieľa, musíte sa vyhnúť po ceste krachu. Preto treba veľmi opatrne pristupovať k investovaniu požičaných peňazí, najmä ak ide o pôžičku, ktorá je splatná v krátkej dobe (sem patrí aj využívanie _margin account_ u brokera či short-term trading s využitím páky). Asi jediný dlh, ktorý sa neoplatí splácať (a radšej peniaze investovať do akcií), je hypotéka. Ešte jeden citát od Buffetta:
-> My partner Charlie says there is only three ways a smart person can go broke: liquor, ladies and leverage. Now the truth is — the first two he just added because they started with L — it’s leverage.
+> My partner Charlie says there is only three ways a smart person can go broke: liquor, ladies and leverage. Now the truth is --- the first two he just added because they started with L --- it’s leverage.
 
-> But leverage is addictive. Once having profited from its wonders, very few people retreat to more conservative practices. And as we all learned in third grade — and some relearned in 2008 — any series of positive numbers, however impressive the numbers may be, evaporates when multiplied by a single zero.
+> But leverage is addictive. Once having profited from its wonders, very few people retreat to more conservative practices. And as we all learned in third grade --- and some relearned in 2008 --- any series of positive numbers, however impressive the numbers may be, evaporates when multiplied by a single zero.
 
 Súvisiacemu konceptu sa hovorí _tail risk_: netreba zabúdať na nepravdepodobné udalosti s veľkým negatívnym efektom. (Odporúčam prečítať si na túto tému knihy zo série [Incerto](https://www.fooledbyrandomness.com/) od N. Taleba.)
 
 Obavy z neistej budúcnosti možno celkom dobre riešiť poistením a prípravou alternatívnych finančných plánov (spôsoby redukcie výdavkov v prípade nutnosti). Investovať bez zmysluplného celkového finančného plánu je hlúpe.
 
-V špecifických osobných situáciách viete investovaním oslabiť riziká, ktoré by vám inak hrozili. Napr. ak sa živíte ako autodopravca a hradíte náklady na palivo, môžete zvážiť nakúpiť na burze firmy ťažiace ropu či rafinérie. Ak ako zamestnanec dostávate od svojho zamestnávateľa akcie, môžete to kompenzovať investovaním väčšieho podielu do iných odvetví. Ak vlastníte nehnuteľnosti v nejakej krajine, môžete naopak nakúpiť z tejto krajiny menej akcií. Ak ste spotrebiteľ na Slovensku, väčšina výrobkov sa dováža, a ich ceny závisia od výmenného kurzu eura voči iným menám; vlastníctvo akcií v iných menách kompenzuje riziko poklesu eura (čiže rastu spotrebiteľských cien).
+Väčšina ľudí príliš verí nehnuteľnostiam a málo akciám (podielom vo firmách). Pritom máme množstvo príkladov z minulosti, ktoré ukazujú, ako sa to môže nevyplatiť. Zmeny štátneho zriadenia, vojny, kolaps priemyslených oblastí (napr. automobilky v Detroite), masová emigrácia či vymieranie populácie (v Japonsku je asi tretina domov prázdnych) neraz vedú k 100% strate nehnuteľnosti. Lokálne zmeny v okolí (napr. dopravné projekty, zle regulovaná výstavba, presuny sociálnych skupín, zraniteľnosť voči povodniam) zase môžu citeľne znížiť atraktívnosť nehnuteľnosti a zraziť jej cenu nadol. Demografické trendy spojené s poklesom populácie prakticky nemajú v historických dátach precedens; nenechajte sa oklamať rastom cien nehnuteľností za posledné storočie, sotva sa zopakuje. Byt na prenajímanie v meste, kde už beztak vlastníte jednu nehnuteľnosť na bývanie, alebo v krajine, kde očakávate, že zdedíte nehnuteľnosť po rodičoch, nemusí byť z hľadiska riadenia rizika dobrý nápad.
+
+V špecifických osobných situáciách viete investovaním oslabiť riziká, ktoré by vám inak hrozili. Napr. ak sa živíte ako autodopravca a hradíte náklady na palivo, môžete zvážiť nakúpiť na burze firmy ťažiace ropu či rafinérie. Ak ako zamestnanec dostávate od svojho zamestnávateľa akcie, môžete to kompenzovať investovaním väčšieho podielu do iných odvetví. Ak vlastníte nehnuteľnosti v nejakej krajine, môžete naopak nakúpiť z tejto krajiny menej akcií. Ak ste spotrebiteľ na Slovensku, väčšina výrobkov sa dováža, a ich ceny závisia od výmenného kurzu eura voči iným menám; vlastníctvo akcií v iných menách kompenzuje riziko poklesu eura (čiže rastu spotrebiteľských cien). Ak dostávate bezpečný štátny plat či dôchodok, môžete mať v akciách vyšší podiel majetku ako podnikatelia či zamestnanci v cyklických odvetviach, kde sa občas prudko znižujú mzdy či prepúšťa. Ako zamestnanec či spolumajiteľ technologického startupu môžete kompenzovať riziko investovaním do firiem so stabilným podnikaním a menšími výkyvmi (blue chips) v iných odvetviach.
+
 
 ## Koľko a kam investovať?
 
@@ -141,4 +141,120 @@ https://elmwealth.com/coin-flip/game/
 https://elmwealth.com/lessons-from-betting-on-a-biased-coin-cool-heads-and-cautionary-tales/
 
 50 Visuals Every Investor Should Memorize eBook 
+
+https://tpawplanner.com/
+
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590406
+Nominal bonds:
+short-term correlation to stocks 0.15, but long-term is 0.5, even higher than international markets
+prone to inflation
+no mean reversion, inflation tends to be persistent, losses due to inflation are not recovered (unlike stock market crashes typically)
+considering real returns instead of nominal, bonds are more volatile than they look
+these risks not rewarded well (expected real returns from bonds tend to be small or even negative)
+TIPS: not great for wealth accumulation, reinvestment risk (quite often negative real yield), but good for decreasing the risk of ruin in retirement (20-40% of portfolio makes sense)
+
+pozriet si vsetky ucebnice financnej gramotnosti
+
+TODO
+
+observation: the more skill is involved in a zero-sum game, the more luck matters
+holds for sports where players are highly skilled, e.g. ice hockey
+also for stock market, esp. nowadays
+
+
+lessons most important etc.:
+https://rationalreminder.ca/podcast/299
+
+
+book
+Swedroe: Enrich Your Future
+
+1. factor models explain about 90% of returns of diversified portfolios, and also explain almost all of Buffett's outperformance
+2. markets set prices so that better businesses are more expensive, i.e. trade for higher multiples of earnings and equity(and thus less risky stocks have lower expected returns);
+efficient market --- it is difficult to persistently exploit mispricings, esp. after expenses / new info immediately incorporated into prices [a couple of trades is enough acc. to som study]
+prices are not set by amateurs, but mostly by professionals in institutions, collectively
+information is not all in the hands of one person, it is dispersed, so relying just on your own information is unlikely to lead to best-informed decisions
+3. pri sporte jednotlivci superia voci jednotlivcom, ale pri investovani je to jednotlivec proti celemu trhu --- a pre hocijaku jeho kvalitu sa najde niekto, kto ma tejto kvality viac, plus investicne strategie sa daju kopirovat, plus s rastucim kapitalom je tazsie dosahovat nadvynosy --- preto perzistencia nadvynosu je velmi mala; konvencny pohlad, ze minule vynosy sa daju pouzit ako prediktor buducich vynosov, sa na investovanie neda aplikovat (hoci funguje pre vacsinu oblasti zivota), neraz je to skor naopak (reversion to the mean pre aktiva, ktore dany investor preferuje)
+4. closet index funds; tazkost rozlisit superioritu manazera (skor umrie ako dosiahne statisticky vyznamny nadvynos, kedze ten nadvynos je typicky malicky)
+5. akcie dobrych firiem neznamenaju vysoke vynosy, vsetko je kompenzovane ich vyssou nakupnou cenou; vyssie riziko je naopak kompenzovane vyssim ocakavanym vynosom
+6. ever increasing difficulty in generating alpha: progressing academic research, shrinking pool of victims, increased competition (in terms of capital and people), falling trading costs helping arbitrage, absolute level of skill is increasing (so results more random); collective wisdom of crowds is getting to be a tougher competitor
+7. with easily disseminated information, value of security analysis is lower, even managements with inside info have trouble determining fair values (e.g. repurchases and acquisitions tend to be off the mark)
+8. forecasts of country GDP growth are pretty much irrelevant for stock market returns, it's even somewhat negatively correlated; individual predictions bear costs of research etc., but does not seem to be of much value, because the value is in the positive surprises that are not priced in
+9. "fed model", i.e. E/P vs. risk-free rate as predictor of returns, does not work (ignores inflationary growth) and confuses absolute and relative returns (at 1% interest rates, fair value for stocks should be P/E 100)
+10. big US pension funds have tons of money to pay for consultants, research, best products, and they still underperform the market; why would you try? at most a tiny fraction of money should be used for betting and similar entertainment
+11. pretty much impossible to identify outperforming managers ahead of time, luck plays too big a role; if you have too many coin tosser predictors, some look 100% correct for a long time
+12. negative performance comes at a greater pain than one would get from outperformance of the same magnitude, why subject oneself to the possibility of the pain?
+13. why do people repeatedly try to select an outperforming manager? does not make sense since they repeatedly fail and the situation is worsening over time (see e.g. point 6)
+14. stocks are risky also on long time horizons (e.g. Argentina, Japan between 1990 and 2022, almost nuclear war during Soviet Union times); tail risks from pandemics etc., Lubos Pastor work on increasing uncertainty with longer horizons; taleb: history teaches us that things that never happened before do happen (fooled by randomness)
+15. individual stocks are risky: median stock has mediocre returns way below market avg., only 2% of stocks produced all the gains between 1983 and 2006, etc.
+(https://mebfaber.com/wp-content/uploads/2020/08/The_Capitalism_Distribution_12.12.12_1_.pdf)
+only 2.3% stocks outperformed since 1920s, only 40% stocks better than Tbills
+http://csinvesting.org/wp-content/uploads/2017/05/Bessembinder-Do-Stocks-Outperform-Treasury-Bills.pdf
+16. due to reflexive nature of stocks market and economy, reliable predictions are pretty much impossible; be aware of sequence risk (x% withdrawal rule is not safe in the sense that you can withdraw every year, even if you can withdraw on average)
+17. individual stocks should be judged as parts of a larger portfolio (e.g. two perfectly negatively correlated securities nullify each other; adding a bit of international stocks improves both returns and sharpe ratio of US stock portfolio)
+18. black swans, fat tails, not normal distribution of returns; missing best and worst days has massive impact on returns
+19. gold is not a safe haven; at some point it lost 85% of purchasing power over 22 years
+20. considering the evidence, managing money not passively is an act of malfeasance
+21. people are overconfident, but don't even know their own returns, they tend to vastly overestimate them
+22. some risks are not worth taking (consequences should dominate probabilities, Pascal's wager); don't put much in the stock of your employer
+23. use monte carlo simulation; be careful with framing questions (invert --- do not only ask how many will die, but also how many will survive)
+24. activity in investing tends to be counterproductive: people underperform the funds in which they invest because they move in and out way above common rebalancing
+25. bear markets cannot be avoided or anticipated; be ready for them upfront, with a sensible strategy
+26. lump sum is better than dollar-cost averaging, but psychologically it might help to invest not all at once (but get a specific plan upfront and then carry it out, easier with help of others)
+27. pascal's wager again, insurance (life, health, long-term care), asset allocation different for getting rich vs. staying rich; TIPS are advantageous for most people (no need to worry about how to beat inflation or betting it will be low)
+28. endowment effect --- don't get married to your investments
+29. avoid behavioral errors
+30. preference for dividends is economically (and tax-wise) irrational; could be rational for people who do not have discipline and a strict line between "invested portfolio" and "cash to spend" might help them; or higher stability of dividends vs. stock prices would keep them invested through downturns
+31. lots of uncertainty in investing, impossible to estimate anything with precision; don't take on too much risk or uncertainty if you can't bear it
+32. real returns of strategies based on academic market inefficiencies tend to not work well, partially because of costs; don't spend time trying to find 20 dollar bills just because you have once found one
+33. tennis is a winner's game only for the pros who could consistently hit winners, for the unskilled, it's about avoiding mistakes for as long as possible, similarly with investing; don't be overconfident
+34. risk premiums are there only because the risk is present; bear markets are a necessary evil, ditto for factors underperforming for long periods, even decades
+35. investing is not to be entertaining (e.g. Jim Cramer), successful investing is usually dull (like Mungers' sitting on your ass doing nothing), earning money in your sleep, and buffett's "inactivity strikes us as intelligent behavior"
+36. fashion and herd mentality affect us all; have a plan for diversified portfolio and ignore the noise and temptations and fads
+37. strategies that are only based on behavioral anomaly, not on risk, are likely to fail, e.g. sell in may and go away
+38. chasing hot funds is unlikely to work (cf. Cathie Wood)
+39. after having basic necessities like food and shelter, utility of money decreases significantly; don't risk those; don't confuse your needs with desires (and don't take on too much risk that is not really necessary)
+40. get your excitement elsewhere (not in investing); passive indexing frees your time to do valuable interesting things with friends and family
+41. again on passive vs. active, nothing new; there are ETFs with ~zero expense ratios
+42. how to identify trustworthy advisors: fee-only and not commissions, fiduciary standard of care, based on academic research and not opinions, takes into account risk and tax management, advice is goal-oriented, comprehensible planning including retirement etc.
+
+
+Summary: Theoretically, outperformance should not happen (and if it does, only randomly). In practice, outperformance does not happen, only very rarely, typically for short periods, and we have no reliable means of distinguishing it from luck or predicting into the future.
+
+
+TODO george: vyzera to velmi schodne
+https://www.slsp.sk/sk/ludia/investovanie/etf-fondy#/8457b7/id/dane
+maju tam napr.
+IE00BGSF1X88	ISHARES ETF US TREAS 0-1YR USD
+IE00B0M62X26	ISHARES EU INF-LNK GOV BD ETF
+IE00B6R52259	ISHARES MSCI ACWI UCITS ETF
+IE00B5BMR087	ISHARES CORE S&P 500 UCIT ETF
+IE00B4L5Y983	ISHARES CORE MSCI WORLD X ETF
+IE00B53L3W79	ISHARES CORE EUR STOXX 50 ETF
+IE00BKM4GZ66	ISHARES CORE EM IMI ETF
+
+
+https://seekingalpha.com/article/4689343-most-investments-are-bad-heres-why-and-what-to-do-about-it
+https://collabfund.com/blog/how-i-think-about-debt/
+
+risk is created by people participating in activities, by their behaviour
+e.g. safer cars, people start to drive faster
+mountaineering gear gets better every year, but casualties do not drop
+if people feel like there was no risk, they will act in ways making
+the world a risky place --- e.g. mortgage backed securities based on
+belief there cannot be nationwide defaults of mortgages, and so their
+created a new risk and made a downfall inevitable (reflexivity)
+
+
+expected value is misleading: in some cases, expected value is not the
+possible outcome (e.g. when rolling a die, exp. is 3.5), and can
+mislead into undertaking risks one won't survive (though the
+expectation is highest)
+
+most returns in very few days
+in very few stocks, most underperform cash
+
+In the sweep of history, that we regard government debt as “risk free” is a rare privilege of the post WWII calm. Defaults and inflations over the cen- turies, and in countries from Latin America to Greece today, have been an ever present risk. We take for granted that the US will always inflate rather than default, but explicit default is
+
 

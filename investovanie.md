@@ -42,6 +42,8 @@ Proste aby ste mali šancu dostať sa do cieľa, musíte sa po ceste vyhnúť kr
 
 Súvisiacemu konceptu sa hovorí _tail risk_: netreba zabúdať na nepravdepodobné udalosti s veľkým negatívnym efektom. (Odporúčam prečítať si na túto tému knihy zo série [Incerto](https://www.fooledbyrandomness.com/) od N. Taleba.)
 
+Mnohé riziká vytvárajú ľudia tým, že sa angažujú v rizikových aktivitách. Napr. súčasné autá sú mnohokrát bezpečnejšie ako niekdajšie, máme povinné bezpečnostné pásy a detské sedačky a crashtesty, ale celková nehodovosť či úmrtnosť v autách veľmi neklesli: ľudia proste jazdia rýchlejšie a menej opatrne. (Cyklisti používajú za jazdy telefón oveľa menej, ako vodiči.) Aj horolezecké vybavenie je každým rokom bezpečnejšie, ale straty na životoch neklesajú, ľudia proste lezú, kde by si kedysi netrúfli. Finančná kríza v r. 2008 bola do značnej miery spôsobená rizikovým správaním vychádzajúcim z chybného predpokladu, že hypotéky nemôžu zlyhať v celých USA zároveň. Následne ľudia pridali k zdanlivo bezpečnej investícii kopu dlhu (leverage) a keď to prasklo, prasklo to masívne.
+
 Obavy z neistej budúcnosti možno celkom dobre riešiť poistením a prípravou alternatívnych finančných plánov (spôsoby redukcie výdavkov v prípade nutnosti). Investovať bez zmysluplného celkového finančného plánu je hlúpe.
 
 Väčšina ľudí príliš verí nehnuteľnostiam a málo akciám (podielom vo firmách). Pritom máme množstvo príkladov z minulosti, ktoré ukazujú, ako sa to môže nevyplatiť. Zmeny štátneho zriadenia, vojny, kolaps priemyslených oblastí (napr. automobilky v Detroite), masová emigrácia či vymieranie populácie (v Japonsku je asi tretina domov prázdnych) neraz vedú k 100% strate nehnuteľnosti. Lokálne zmeny v okolí (napr. dopravné projekty, zle regulovaná výstavba, presuny sociálnych skupín, zraniteľnosť voči povodniam) zase môžu citeľne znížiť atraktívnosť nehnuteľnosti a zraziť jej cenu nadol. Demografické trendy spojené s poklesom populácie prakticky nemajú v historických dátach precedens; nenechajte sa oklamať rastom cien nehnuteľností za posledné storočie, sotva sa zopakuje. Byt na prenajímanie v meste, kde už beztak vlastníte jednu nehnuteľnosť na bývanie, alebo v krajine, kde očakávate, že zdedíte nehnuteľnosť po rodičoch, nemusí byť z hľadiska riadenia rizika dobrý nápad.
@@ -123,10 +125,6 @@ pozriet si vsetky ucebnice financnej gramotnosti
 
 TODO
 
-observation: the more skill is involved in a zero-sum game, the more luck matters
-holds for sports where players are highly skilled, e.g. ice hockey
-also for stock market, esp. nowadays
-
 
 lessons most important etc.:
 https://rationalreminder.ca/podcast/299
@@ -203,13 +201,6 @@ IE00BKM4GZ66	ISHARES CORE EM IMI ETF
 https://seekingalpha.com/article/4689343-most-investments-are-bad-heres-why-and-what-to-do-about-it
 https://collabfund.com/blog/how-i-think-about-debt/
 
-risk is created by people participating in activities, by their behaviour
-e.g. safer cars, people start to drive faster
-mountaineering gear gets better every year, but casualties do not drop
-if people feel like there was no risk, they will act in ways making
-the world a risky place --- e.g. mortgage backed securities based on
-belief there cannot be nationwide defaults of mortgages, and so their
-created a new risk and made a downfall inevitable (reflexivity)
 
 
 

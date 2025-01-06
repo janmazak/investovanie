@@ -4,9 +4,6 @@ Keďže ceny akcií robia v čase prudké výkyvy, ľudia majú sklon dúfať, �
 
 Zásadný problém s market timingom (snahou načasovať nákup či predaj) je, že treba mať pravdu dvakrát. Ak niečo predáte, kedy je správny čas kúpiť to naspäť? Predstavte si napr. scenár, kde sa vám akcie zdajú drahé, tak s nákupom vyčkávate. Akcie stúpnu za rok 30%, vy ste nezarobili nič. Ďalší rok akcie stúpnu 20%, vy zase nič. Následne možno akcie klesnú o 30%, ale ak ich kúpite, vaša nákupná cena bude stále výrazne vyššia, ako by bola na začiatku. Alebo možno v tretí rok akcie stúpnu o 10%, vy nevydržíte a nakúpite, a vzápätí príde 40% pokles. Môžete si tak akurát trhať vlasy.
 
-Štatistické prehľady ukazujú, že výrazná väčšina ziskov z akcií príde počas výnimočných zriedkavých nepredvídateľných dní, keď ceny výrazne poskočia nahor.
+Štatistické prehľady ukazujú, že výrazná väčšina ziskov z akcií príde počas výnimočných zriedkavých nepredvídateľných dní, keď ceny výrazne poskočia nahor. Ak nenesiete riziko (investíciu ste predali), nemôžete očakávať, že niečo zarobíte (koncept pozitívneho očakávaného výnosu ako odmeny za nesenie rizika).
 
 Zásadný problém market timingu je tiež v tom, že je to hra s nulovým súčtom. Na rozdiel od dlhodobého rastu ziskov a majetkov firiem, kde na načasovaní investície nezáleží a môže sa na ňom podieľať každý, pri krátkodobých obchodoch zisk jedného je stratou druhého. Čím viac schopných ľudí sa takej hry zúčastňuje, tým viac sú jej výsledky náhodné. Vidno to napr. na športoch ako ľadový hokej, kde výsledky špičkových tímov sú viac-menej nepredvídateľné, na rozdiel od (polo)amatérskych športov, kde lepšie schopnosti môžu viesť k trvalej výhode. A nemajte pochybnosti, že všade, kde sa točí veľa peňazí, nájdete veľa schopných.
-
-
-

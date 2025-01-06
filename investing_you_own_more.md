@@ -1,0 +1,5 @@
+## Vlastníte viac, než sa zdá
+
+Ak máte dojem, že vašich pár tisíc eur úspor je všetko, čo vlastníte, a bojíte sa to investovať, pozrite sa na to zo širšej perspektívy. Modelový príklad pre mladého človeka: vlastní byt za 200 000 eur s hypotékou 150 000 (čiže čistý majetok v nehnuteľnosti 50 000), má v hotovosti 30 000 eur, a súčasná hodnota jeho budúcich príjmov je 200 000 eur (súčet jeho budúcich miezd so zohľadnením toho, že budúce peniaze sú menej hodnotné ako súčasné). Ak zvažuje investíciu 20 000 eur do akcií (podielov v cudzích firmách), zdá sa to ako 2/3 jeho úspor, ide však o menej ako desatinu toho, čo má (20 000 z 280 000). Jeho kapitál (a rizikový profil) je bez investovania do akcií výrazne nevyvážený: napr. má oveľa viac peňazí v jedinej nehnuteľnosti (aj so všetkými súvisiacimi rizikami) než vo všetkých ostatných finančných aktívach dokopy.
+
+Na okraj: investovať do zvýšenia budúceho príjmu sebavzdelávaním môže byť jedna z najlepších investícií aj v čisto finančnom zmysle, keďže budúce príjmy typicky tvoria výraznú väčšinu majetku mladých ľudí.

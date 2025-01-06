@@ -1,0 +1,18 @@
+## Čo pri investovaní optimalizujeme?
+
+Klasické finančné modely sa snažia maximalizovať zisk. To však pre väčšinu ľudí nie je relevantné kvôli [_marginálnej utilite_](https://www.investopedia.com/ask/answers/072815/what-marginal-utility-income.asp): z prvého zarobeného milióna máte oveľa viac úžitku ako z druhého. Navyše pri šetrení na dôchodok vás menej ako maximalizácia majetku zaujíma pravdepodobnosť toho, že neumriete od hladu --- nakoľko lákavá sa vám zdá možnosť mať s pravdepodobnosťou 3/4 dvojnásobný dôchodok, ak to zároveň znamená, že pravdepodobnosť nulového dôchodku bude 1/4?
+
+Veľmi dobrou pomôckou pri lepšom pochopení možných výsledkov investovania sú [Monte Carlo simulácie](https://www.portfoliovisualizer.com/monte-carlo-simulation). Uvidíte z nich nielen priemerný očakávaný výnos, ale tiež distribúciu možných výnosov (čiže aká je šanca, že na dôchodku nebudete mať ani na jedlo). Nezabudnite však, že ide len o pomerne jednoduchý model --- realita sa môže výrazne líšiť.
+
+Pri investovaní treba zohľadniť, akým rizikám sa vystavujete v iných oblastiach života. Ak ste učiteľ s bezpečným štátnym platom, môžete podstúpiť viac podnikateľského rizika pri investovaní; ak vašu rodinu živí len firma v cyklickom odvetví, je vhodné sa poohliadnuť pri investovaní po iných zdrojoch rizika. Naivná snaha o maximalizovanie výnosov môže viesť k veľmi nevyváženému rizikovému profilu.
+
+Inšpirovať by vás mohol aj [príbeh H. Markowitza](https://jasonzweig.com/what-harry-markowitz-meant/?utm_source=chatgpt.com), ktorý dostal Nobelovu cenu za model alokácie aktív. Jeho model rieši nasledovný problém: Máme niekoľko druhov aktív, pri ktorých poznáme očakávané výnosy, historické výkyvy (volatilitu), a nakoľko sú ich výnosy nezávislé (korelácia). Chceme pre danú mieru rizika maximalizovať výnos (resp. pre daný výnos minimalizovať riziko). Aký mix aktív máme zvoliť pre svoju investíciu?
+
+Markowitzov model (mean-variance, efficient frontier, MPT) je matematicky elegantný a naozaj odpovedá na zadanú otázku. Má však zásadné nedostatky pre praktické použitie. Je veľmi citlivý na zmeny vstupných parametrov (numerická nestabilita): stačí trocha zmeniť zopár korelácií a zrazu dostaneme celkom iný mix aktív na výstupe. Pritom tie vstupné parametre môžeme len odhadovať, a nevieme to spraviť spoľahlivo: ak zoberieme historické dáta z krátkeho obdobia, nebudú v nich zohľadnené zriedkavé udalosti; ak zoberieme dáta z dlhého obdobia, budú tam zase dávno neplatné veci, keďže svet sa medzitým zmenil.
+
+Keď sa Markowitza v r. 1952 spýtali, ako alokuje svoje portfólio, odpovedal:
+> I should have computed [the historical data] and drawn an efficient frontier. Instead, I visualized my grief if the stock market went way up and I wasn't in it --- or if it went way down and I was completely in it. My intention was to minimize my future regret. So I split my contributions 50/50 between bonds and equities.
+
+Táto odpoveď je veľmi múdra, lebo reflektuje, že priorita pri investovaní musí byť zvládanie vlastných emócií. Drobné zlepšenie výnosov získané zmenou alokácie je sekundárne, ak neustojíme tie dva-tri kľúčové veľké výkyvy na akciovom trhu, čo nás počas života čakajú. 
+
+Avšak pozor: táto odpoveď nedáva návod na to, ako investovať dnes. Krajiny sú oveľa viac zadlžené, vysoké úrokové sadzby by neustáli, preto už niekoľko desaťročí sú výnosy z dlhopisov chabé a dáva zmysel viac preferovať akcie. Nedáva ani univerzálny návod pre každého: napr. pre mladých ľudí dáva zmysel mať v prvých rokoch v akciách 100% investičného portfólia (či dokonca si na investovanie požičať) a k dlhopisom sa obrátiť až neskôr, takáto stratégia by však mohla byť pre amerického dôchodcu bez štátnej penzie finačne zničujúca.

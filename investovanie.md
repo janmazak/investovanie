@@ -22,6 +22,7 @@ Nasleduje stručné zdôvodnenie tohto návodu.
 2. [Akcie sú oveľa bezpečnejšie, ako sa zdá na prvý pohľad.](investing_stocks_safe.md)
 3. [Vlastníte viac, než sa zdá.](investing_you_own_more.md)
 4. [Nie každé riziko sa oplatí niesť.](investing_dangerous_risks.md)
+5. [Market timing nefunguje.](market_timing.md)
 
 ## Manažovanie, kontrola, riadenie rizika
 
@@ -211,13 +212,6 @@ belief there cannot be nationwide defaults of mortgages, and so their
 created a new risk and made a downfall inevitable (reflexivity)
 
 
-expected value is misleading: in some cases, expected value is not the
-possible outcome (e.g. when rolling a die, exp. is 3.5), and can
-mislead into undertaking risks one won't survive (though the
-expectation is highest)
-
-most returns in very few days
-in very few stocks, most underperform cash
 
 In the sweep of history, that we regard government debt as “risk free” is a rare privilege of the post WWII calm. Defaults and inflations over the cen- turies, and in countries from Latin America to Greece today, have been an ever present risk. We take for granted that the US will always inflate rather than default, but explicit default is
 

@@ -11,7 +11,7 @@ Tento stručný návod pokrýva potreby veľkej časti populácie. Viac detailov
 1. Naučte sa míňať menej, ako zarobíte, splaťte všetky dlhy s vysokým úrokom (vyššie ako úroky na hypotékach) a vytvorte si rezervný fond aspoň na úrovni 3-násobku mesačných príjmov.
 2. Zriaďte si účet u [nízkonákladového online brokera](https://uspesnynaburze.sk/najlepsi-etf-broker/), ktorý umožňuje obchodovať indexové fondy v podobe ETF (napr. [XTB](https://www.xtb.com/sk) či [IBKR](https://finfin.sk/interactive-brokers-recenzia/)).
 3. Pripravte si na investovanie aspoň niekoľko sto eur (suma musí byť dostatočná na minimálny vklad a dosť veľká na vyváženie minimálneho poplatku za obchod na burze). Preveďte peniaze k brokerovi (odporúčam zvoliť si takého, kde sa to dá spraviť bezplatným SEPA prevodom).
-4. Nakúpte za všetky peniaze široko diverzifikovaný indexový fond, napr. [ETF sledujúce index MSCI World](https://www.ishares.com/uk/individual/en/products/251882/ishares-msci-world-ucits-etf-acc-fund). Stačí pár kliknutí.
+4. Nakúpte za všetky peniaze široko diverzifikovaný indexový fond, napr. [ETF sledujúce index MSCI World](https://www.ishares.com/uk/individual/en/products/251882/ishares-msci-world-ucits-etf-acc-fund). Stačí pár kliknutí, dôsledne si však overte, čo kupujete --- porovnajte ticker aj kód ISIN a dajte si pozor, aby ste neinvestovali do nejakého derivátového nástroja (napr. kontraktu CFD súvisiaceho so želaným ETF).
 5. Keď znova našetríte ďalšie peniaze (napr. za mesiac či štvrťrok), investujte ich tak isto.
 6. Investície nepredávajte (okrem vynútených prípadov, napr. súvisiacich s úmrtím v rodine). Pri predaji pozor na dane.
 
@@ -22,7 +22,8 @@ Nasleduje stručné zdôvodnenie tohto návodu.
 2. [Akcie sú oveľa bezpečnejšie, ako sa zdá na prvý pohľad.](investing_stocks_safe.md)
 3. [Vlastníte viac, než sa zdá.](investing_you_own_more.md)
 4. [Nie každé riziko sa oplatí niesť.](investing_dangerous_risks.md)
-5. [Market timing nefunguje.](market_timing.md)
+5. [Market timing nefunguje.](investing_market_timing.md)
+6. [Trh neporazíte.](investing_beating_market.md)
 
 ## Manažovanie, kontrola, riadenie rizika
 
@@ -48,7 +49,7 @@ Obavy z neistej budúcnosti možno celkom dobre riešiť poistením a prípravou
 
 Väčšina ľudí príliš verí nehnuteľnostiam a málo akciám (podielom vo firmách). Pritom máme množstvo príkladov z minulosti, ktoré ukazujú, ako sa to môže nevyplatiť. Zmeny štátneho zriadenia, vojny, kolaps priemyslených oblastí (napr. automobilky v Detroite), masová emigrácia či vymieranie populácie (v Japonsku je asi tretina domov prázdnych) neraz vedú k 100% strate nehnuteľnosti. Lokálne zmeny v okolí (napr. dopravné projekty, zle regulovaná výstavba, presuny sociálnych skupín, zraniteľnosť voči povodniam) zase môžu citeľne znížiť atraktívnosť nehnuteľnosti a zraziť jej cenu nadol. Demografické trendy spojené s poklesom populácie prakticky nemajú v historických dátach precedens; nenechajte sa oklamať rastom cien nehnuteľností za posledné storočie, sotva sa zopakuje. Byt na prenajímanie v meste, kde už beztak vlastníte jednu nehnuteľnosť na bývanie, alebo v krajine, kde očakávate, že zdedíte nehnuteľnosť po rodičoch, nemusí byť z hľadiska riadenia rizika dobrý nápad.
 
-V špecifických osobných situáciách viete investovaním oslabiť riziká, ktoré by vám inak hrozili. Napr. ak sa živíte ako autodopravca a hradíte náklady na palivo, môžete zvážiť nakúpiť na burze firmy ťažiace ropu či rafinérie. Ak ako zamestnanec dostávate od svojho zamestnávateľa akcie, môžete to kompenzovať investovaním väčšieho podielu do iných odvetví. Ak vlastníte nehnuteľnosti v nejakej krajine, môžete naopak nakúpiť z tejto krajiny menej akcií. Ak ste spotrebiteľ na Slovensku, väčšina výrobkov sa dováža, a ich ceny závisia od výmenného kurzu eura voči iným menám; vlastníctvo akcií v iných menách kompenzuje riziko poklesu eura (čiže rastu spotrebiteľských cien). Ak dostávate bezpečný štátny plat či dôchodok, môžete mať v akciách vyšší podiel majetku ako podnikatelia či zamestnanci v cyklických odvetviach, kde sa občas prudko znižujú mzdy či prepúšťa. Ako zamestnanec či spolumajiteľ technologického startupu môžete kompenzovať riziko investovaním do firiem so stabilným podnikaním a menšími výkyvmi (blue chips) v iných odvetviach.
+V špecifických osobných situáciách viete investovaním oslabiť riziká, ktoré by vám inak hrozili. Napr. ak sa živíte ako autodopravca a hradíte náklady na palivo, môžete zvážiť nakúpiť na burze firmy ťažiace ropu či rafinérie. Ak ako zamestnanec dostávate od svojho zamestnávateľa akcie, môžete to kompenzovať investovaním väčšieho podielu do iných odvetví. Ak vlastníte nehnuteľnosti v nejakej krajine, môžete naopak nakúpiť z tejto krajiny menej akcií. Ak ste spotrebiteľ na Slovensku, väčšina výrobkov sa dováža, a ich ceny závisia od výmenného kurzu eura voči iným menám; vlastníctvo akcií v iných menách kompenzuje riziko poklesu eura (čiže rastu spotrebiteľských cien). Ak dostávate bezpečný štátny plat či dôchodok, môžete mať v akciách vyšší podiel majetku ako podnikatelia či zamestnanci v cyklických odvetviach, kde sa občas prudko znižujú mzdy či prepúšťa. Ako zamestnanec či spolumajiteľ technologického startupu môžete kompenzovať riziko investovaním do firiem so stabilným podnikaním a menšími výkyvmi (blue chips) v iných odvetviach. Kým však nemáte v jednoduchom akciovom indexe aspoň svoj celoročný príjem a za sebou nejaký pokles na burze, vôbec nepremýšľajte nad niečím iným ako základné ETF s balíkom akcií všetkých väčších firiem na svete.
 
 Niektoré udalosti sú veľmi nepravdepodobné, ale vedú k masívnym škodám. Scenáre ako jadrová vojna, celosvetová nemožnosť pestovať potraviny po výbuchu sopky, zničujúca pandémia atď. existujú, ale v podstate s nimi človek ako jednotlivec nevie spraviť nič. Typicky sú aj vylúčené z poistenia. Vo všeobecnosti dáva zmysel pristupovať k nim takto: ak nebude čo jesť alebo umieram na radiáciu alebo nik nemá elektrinu, moje akciové investície ma veľmi zaujímať nebudú, bez ohľadu na ich straty. Tieto druhy rizika sa proste neriešia na úrovni investícií či peňazí vôbec (ale môže sa z vás stať _prepper_). Budeme ich preto pri finančom plánovaní ignorovať.
 > Never bet on the end of the world, you'll only be right once and you won't be able to collect.
@@ -58,7 +59,7 @@ Niektoré udalosti sú veľmi nepravdepodobné, ale vedú k masívnym škodám. 
 
 Je plne na vás, aké riziká sa rozhodnete podstúpiť. Najväčší vplyv na konečný výsledok však bude mať to, či sa viete vysporiadať s _volatilitou_ (výkyvmi) a najmä s dočasnými poklesmi cien. Ak si kúpite podiel vo firme obchodovanej na burze (akcie), jeho trhová cena sa bude meniť v každom momente, a ak ju budete sledovať, má to nezanedbateľný psychologický vplyv. A situáciu na trhoch sledovať skoro iste budete: bude sa to rozoberať v novinách, medzi kolegami v práci... 
 
-Aj akcie najstabilnejších firiem môžu klesnúť za pár týždňov či mesiacov o desiatky percent kvôli zmenenej nálade ostatných investorov či kvôli nečakaným udalostiam (bankrot veľkej banky, pandémia, nedostatok ropy...). Ak akcie v takejto nevýhodnej chvíli predáte, prídete o celý potenciálny budúci zisk z ich opätovného rastu. Nie každý však dokáže nepredávať pri poklesoch. Nepodceňujte to: podľa [štúdií](https://fitz.com.au/why-do-investors-earn-less-than-the-funds-they-invest-in/) investori dosahujú menší výnos, než fondy, do ktorých investujú, pretože v nevhodný čas veci nakupujú a predávajú --- bolo by lepšie, keby po úvodnom nákupe už nerobili nič.
+Aj akcie najstabilnejších firiem môžu klesnúť za pár týždňov či mesiacov o desiatky percent kvôli zmenenej nálade ostatných investorov či kvôli nečakaným udalostiam (bankrot veľkej banky, pandémia, nedostatok ropy...). Ak akcie v takejto nevýhodnej chvíli predáte, prídete o celý potenciálny budúci zisk z ich opätovného rastu. Nie každý však dokáže nepredávať pri poklesoch. Nepodceňujte to: podľa [štúdií](https://fitz.com.au/why-do-investors-earn-less-than-the-funds-they-invest-in/) investori dosahujú aj o 3% menší výnos než fondy, do ktorých investujú, pretože opakovane v nevhodný čas veci nakupujú a predávajú --- bolo by lepšie, keby po úvodnom nákupe už nerobili nič.
 
 >	Zistite o sebe čím skôr, ako prežívate pokles hodnoty investície. Na to treba investovať do niečoho s veľkými výkyvmi (napr. akcie) sumu, ktorej stratu už poriadne precítite (odhadujem, že niekoľkomesačný až ročný príjem by mohlo byť dosť). Ak pri poklese nemôžete v noci pokojne spať, alebo o investícii denne premýšľate, musíte to zohľadniť vo svojej investičnej stratégii. Pozor: [_neverte dotazníkom_](https://www.evidenceinvestor.com/how-useful-are-risk-tolerance-questionnaires/) s hypotetickými otázkami; je ľahké sa oklamať, ak ste nikdy stratu z investície nezažili. Vaša tolerancia k riziku pri investovaní môže byť výrazne odlišná od rizikovej tolerancie v iných životných aktivitách.
 
@@ -78,6 +79,13 @@ Správne vyhodnocovanie rozhodnutí je kľúčové: dobré rozhodnutia niekedy v
 Dávajte tiež pozor, že pri hodnotení rozhodnutia možno zohľadňovať len informácie, ktoré boli v momente rozhodovania k dispozícii. Môžete si vynadať, že ste zisťovaniu informácií venovali málo času, ale nie zato, čo sa zistilo až oveľa neskôr a nijako o tom nebolo možné vedieť v čase rozhodovania.
 
 Taktiež by ste nemali zabúdať pri rozhodovaní hľadieť dopredu: je jedno, koľko ste niečomu venovali času či úsilia v minulosti (sunken cost fallacy), podstatné je, čo možno čakať v budúcnosti. Podobne nemožno naivne zovšeobecňovať historické výnosy akcií či podielových fondov: mnoho vecí skôr vykazuje [_mean reversion_](https://www.investopedia.com/terms/m/meanreversion.asp), čiže aktíva, ktorým sa v posledných rokoch darilo zle, majú sklon vykazovať vyššie výnosy ako tie, ktorým sa darilo dobre.
+
+
+Literatura:
+
+Howard Marks Memos
+Intelligent Investor
+Swedroe daco?
 
 
 

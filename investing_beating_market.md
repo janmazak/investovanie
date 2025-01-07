@@ -1,0 +1,28 @@
+## Priemerný výnos akciového trhu neprekonáte
+
+Akademici a praktickí investori vedú odnepamäti spory o to, či je možné opakovanie či pravidelne prekonávať priemerný výnos na akciovom trhu.
+Na túto tému preto existuje rozsiahla literatúra; na ukážku vyberám zrozumiteľnú a výstižnú knihu [The Incredible Shrinking Alpha](https://www.amazon.com/Incredible-Shrinking-Alpha-2nd-successful/dp/0857198246).
+
+Stručný zoznam dôvodov, prečo trh neprekonáte:
+
+1. Vyhliadky firiem sú zohľadnené v cene ich akcií. Aj keby ste vedeli, ako sa nejakej firme bude dariť v budúcich rokoch, túto informáciu rovnako budú mať iní ľudia. Preto cena akcií bude oveľa vyššia pre perspektívne firmy a naopak nízka pre firmy blízke krachu --- ocenenie akcie bude vyjadrovať všetky známe riziká aj očakávaný výnos.
+
+2. S aktivitou pri investovaní (napr. vyhľadávanie zle ocenených firiem či zisťovanie neverejných informácií) sú spojené náklady. Nestačí, že prekonáte trh. Musíte ho prekonať o viac, než vás stojí vaše úsilie. Vrátane transakčných nákladov, daní, ceny svojej práce či času. Toto je zjavne ťažké: v histórii sa zjavilo mnoho dobrých portfólio manažérov, ktorí o máličko prekonávali trh --- ale len pred zohľadnením extra nákladov. Matematika je tu jednoduchá: pasívni investori dosiahnu priemerný výnos trhu (mínus zanedbateľný poplatok za indexové ETF), aktívni investori v priemere tiež dosiahnu len priemerný výnos trhu, ale z neho sa im odrátajú všetky náklady na činnosť. Chcete byť v tej prvej skupine.
+
+3. Ak by ste aj poznali niekoho, komu sa darí lepšie ako priemeru trhu, potrebovali by ste veľmi dlhú sériu dát, na základe ktorej by ste si mohli byť istí. Čo ak mal iba chvíľkové šťastie? Niekto to skúsil presnejšie spočítať a vychádza to tak, že nádejný portfólio manažér skôr pôjde na dôchodok, ako sa dočkáte želanej spoľahlivosti.
+
+4. Ak sa objaví nejaký spôsob, ako poraziť trh, jeho využívanie spôsobí, že príležitosť na extra výnos zmizne. Predstavte si to napr. na výhodnej cene zemiakov v obchode: až sa rozchýri, že niekde sú zemiaky extra lacné, ľudia ich vykúpia, a potom už buď zemiaky nebudú vôbec, alebo sa obchodník dovtípi, že predáva prilacno, a dvihne cenu. V histórii poznáme mnoho príkladov toho, ako kapitál smeroval do fondov, ktoré mali extra výnosy, a následne tieto fondy už extra výnosy nemali. Možno poznáte zopár trikov, ako výhodne investovať milión, ale s miliardou už sotva niečo atraktívne vymyslíte. Napríklad firma Berkshire Hathaway riadená azda najslávnejším investorom W. Buffettom má za 50 rokov priemerný výnos cca 19% ročne (oproti cca 10% priemeru trhu) --- lenže posledných 20-30 rokov už trh prekonáva len veľmi zriedka. V posledných rokoch má na účte aj stovky miliárd v hotovosti --- a žiaden dobrý nápad, čo za ne kúpiť, keďže 
+všetko, čo je dostatočné veľké, je drahé.
+
+5. Trhy majú sklon zefektívňovať sa (t.j. lepšie zohľadňovať všetky informácie v ocenení firiem). Pred 50-100 rokmi ste mohli získať vzácne informácie prehrabávaním papierových archívov alebo diskusiou s ľuďmi, za ktorými bolo treba osobne zájsť. Teraz sa všetky novinky šíria rýchlosťou blesku a počítače ich spracujú a zohľadnia pri obchodovaní na burze skôr, ako sa ku vám dostanú. Napríklad oznámenia publikované firmami sú typicky zohľadnené za niekoľko [milisekúnd](https://www.sciencedirect.com/science/article/abs/pii/S1566014120305872). Zároveň sa rôzne postupy, ako zarobiť čosi extra, stávajú verejne známymi.
+
+6. Akademikom sa podarilo vysvetliť veľkú časť extra výnosov, ktoré dosiahli výnimoční investori. Zo štatistík vyplýva, že je výhodné investovať do firiem, ktoré sú ziskové, lacné, menšie, málo volatilné, a ešte vyhýbať sa IPO atď. --- a že nezáleží na konkrétnych firmách, ale stačí sa zamerať na vymenované charakteristiky a kupovať celé balíky firiem, ktoré ich majú. Takýto postup vysvetlí cca 90% výnosov presahujúcich priemer trhu, a to dokonca aj [historické výnosy Warrena Buffetta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197185). Samozrejme, Buffettovi nemožno uprieť, že na to prišiel o niekoľko desaťročí skôr ako ostatní --- jeho postup však dnes už žiadnu výraznú výhodu nedáva, a preto jeho rada je mať peniaze v indexovom fonde.
+
+7. Ľudia nie sú racionálni aktéri. Stačí jediná chyba v rozhodovaní, podľahnutie strachu z toho, že vám niečo ujde, či chybný odhad investičnej bubliny, a ľahko vytvoríte stratu, po ktorej už nikdy nedobehnete ani ten priemer trhu.
+
+8. Väčšina stratégií pre získanie extra výnosu nezohľadňuje riziko (niektoré vôbec, niektoré nie dosť dôsledne). Napríklad aktívne spravované investičné fondy sa zvyknú porovnávať s nejakým indexom (benchmark), ale v skutočnosti investujú do aktív, ktoré majú väčšie riziko, a tak zdanlivo výnos indexu prekonajú. Nie je žiadne umenie dať peniaze do vysoko rizikových investícií (ktoré majú primerane vyšší očakávaný výnos, aby bolo toto riziko kompenzované). Aj keby ste mali funkčný nápad, ako prekonať trh, bude to zahŕňať riziko, ktoré len vy nevidíte (hoci skúsenejší investori áno) alebo sa ani odhadom nedá vyčísliť. A teda aj tak nebude možné povedať, že viete prekonať trh _pri zohľadnení rizika_ (on a risk-adjusted basis).
+
+Jednu z prvých serióznych kníh o investovaní napísal v r. 1934 Benjamin Graham (známy okrem iného dlhoročnými nadmernými výnosmi). Toto je však jeho názor okolo roku 1970:
+>   I am no longer an advocate of elaborate techniques of security analysis in order to find superior value opportunities. This was a rewarding activity, say, 40 years ago, when [my book] was first published; but the situation has changed. I doubt whether such extensive efforts will generate sufficiently superior selections to justify their cost.
+
+Odvtedy sú trhy ešte omnoho efektívnejšie.

@@ -23,9 +23,8 @@ Nasleduje stručné zdôvodnenie tohto návodu.
 3. [Vlastníte viac, než sa zdá.](investing_you_own_more.md)
 4. [Nie každé riziko sa oplatí niesť.](investing_dangerous_risks.md)
 5. [Trh neporazíte.](investing_beating_market.md)
-6. [Market timing nefunguje.](investing_market_timing.md)
-7. [Nekonajte na základe príbehov.](investing_narratives.md)
-8. [Neverte historickým výnosom.](investing_past_returns.md)
+6. [Nekonajte na základe príbehov.](investing_narratives.md)
+7. [Neverte historickým výnosom.](investing_past_returns.md)
 
 ## Manažovanie, kontrola, riadenie rizika
 

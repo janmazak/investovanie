@@ -22,6 +22,8 @@ všetko, čo je dostatočné veľké, je drahé.
 
 8. Väčšina stratégií pre získanie extra výnosu nezohľadňuje riziko (niektoré vôbec, niektoré nie dosť dôsledne). Napríklad aktívne spravované investičné fondy sa zvyknú porovnávať s nejakým indexom (benchmark), ale v skutočnosti investujú do aktív, ktoré majú väčšie riziko, a tak zdanlivo výnos indexu prekonajú. Nie je žiadne umenie dať peniaze do vysoko rizikových investícií (ktoré majú primerane vyšší očakávaný výnos, aby bolo toto riziko kompenzované). Aj keby ste mali funkčný nápad, ako prekonať trh, bude to zahŕňať riziko, ktoré len vy nevidíte (hoci skúsenejší investori áno) alebo sa ani odhadom nedá vyčísliť. A teda aj tak nebude možné povedať, že viete prekonať trh _pri zohľadnení rizika_ (on a risk-adjusted basis).
 
+9. Nefunguje ani tzv. [časovanie trhu (market timing)](investing_market_timing.md).
+
 Jednu z prvých serióznych kníh o investovaní napísal v r. 1934 Benjamin Graham (známy okrem iného dlhoročnými nadmernými výnosmi). Toto je však jeho názor okolo roku 1970:
 >   I am no longer an advocate of elaborate techniques of security analysis in order to find superior value opportunities. This was a rewarding activity, say, 40 years ago, when [my book] was first published; but the situation has changed. I doubt whether such extensive efforts will generate sufficiently superior selections to justify their cost.
 

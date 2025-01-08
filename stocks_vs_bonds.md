@@ -1,0 +1,35 @@
+# Akcie vs. dlhopisy
+
+Existujú dva principiálne odlišné spôsoby, ako sa podieľať na činnosti niekoho iného.
+
+1. Vložiť kapitál a mať podiel na ziskoch i stratách. Tomuto zodpovedá nákup akcie na voľnom trhu; každá akcia predstavuje podiel na podnikaní so všetkými súvisiacimi právami (možnosť hlasovať na valnom zhromaždení akcionárov; dividendy; podiel na majetku firmy, na zisku i na strate).
+
+2. Požičať peniaze a mať zákonný nárok na ich vrátenie a výplatu dohodnutého úroku. Tomuto zodpovedá nákup dlhopisu; každý dlhopis predstavuje pôžičku a jeho majiteľ je veriteľom. Nemá možnosť ovplyvňovať podnikanie, nehlasuje, nedostáva podiel na zisku ani na strate. V prípade krachu firmy (resp. keď firma nedokáže splácať svoje záväzky) majú veritelia prednosť pred akcionármi, čiže najprv sa vyplatia pôžičky majiteľom dlhopisov, a až keď čosi zvýši, dostanú to akcionári.
+
+(Existujú aj inštrumenty, ktoré tieto dve veci nejako kombinujú, napr. preferenčné akcie, ktorých držitelia sú medzi veriteľmi a akcionármi, ale nebudeme si komplikovať diskusiu --- drvivá väčšina investícií sú buď akcie, alebo pôžičky.)
+
+Oba tieto spôsoby možno realizovať verejne (kúpou verejne obchodovaného cenného papiera) i privátne (dohodnete sa s konkrétnou firmou na špecifickom kontrakte). Cenné papiere obchodované na burze majú v každej chvíli známu cenu, potenciálne teda ste vystavení prudkému rastu i poklesom. Pri privátnej investícii síce nemáte dostupnú okamžitú cenu, ale môžete sa riadiť podobnými verejne obchodovanými cennými papiermi: ak došlo pri cenách firiem podobných vašej k 50% poklesu, ani tú vašu by ste za pôvodnú cenu nepredali, keby ste to skúsili. Neverte preto investíciám, ktoré sú podozrivo stabilné len zato, že sú privátne (pozri tiež [volatility laundering](https://www.aqr.com/Insights/Perspectives/Volatility-Laundering)).
+
+Zásadný rozdiel medzi akciami a dlhopismi je v tom, že pri dlhopise máte obmedzený rast (limited upside --- nedostanete viac než dohodnutý úrok), kým pri akciách nie (ak sa firme darí prekvapivo dobre, aj vaše výnosy môžu byť úžasné). Preto sa investovaniu do dlhopisov hovorí "negative art" --- nesnažíte sa maximalizovať výnos, ten je pevne daný, ale minimalizovať riziko straty (nevyplatenie dohodnutých úrokov kvôli krachu). Ako veriteľ (majiteľ dlhopisu) nemáte z nadmerných ziskov firmy či iného pozitívneho vývoja nič. V ťažkých časoch sa môžete z veriteľa stať akcionárom: ak firma nespláca pôžičky, celá prechádza do rúk veriteľov a pôvodným vlastníkom nezostane nič.
+
+Zhora obmedzený výnos z dlhopisu neznamená, že by cena dlhopisu nemohla stúpnuť. Deje sa tak v dvoch prípadoch: 
+* Keď na trhu klesnú úrokové sadzby. Ak dlhopis vypláca povezme euro ročne a banky dávajú úroky 5%, zodpovedajúca cena dlhopisu je 20 eur (aby to 1 euro ročne predstavovalo 5% výnos --- táto ilustračná úvaha je silne zjednodušená a neberie do úvahy splatnosť dlhopisu). Ak úroky klesnú na 4%, zodpovedajúca cena dlhopisu už bude 25 eur.
+* Keď stúpne dôvera v emitenta dlhopisu (ľudia si myslia, že pravdepodobnosť splatenia dlhu narástla). Typicky ide o dlhopisy firiem vo finančných problémoch, ktoré ustúpia: napr. pôvodný dlhopis v sume 100 eur sa obchoduje na burze len za cenu 20 eur, lebo sotvakto verí, že jeho majiteľ vôbec dostane niečo naspäť, a po zlepšení vyhliadok firmy sa bude obchodovať trebárs za 60 eur.
+
+Z uvedeného vyplýva, že ani investovanie do dlhopisov nie je jednoduché. Na základe skúsenosti však máme rôzne užitočné pozorovania, ktoré tu uvediem bez podrobnejšej diskusie. Pokojne ich možno preskočiť, ak im nerozumiete.
+
+* Pri investovaní do akcií sa neoplatí hedžovať menové riziko. Pri krátkodobého investovania do dlhopisov v cudzej mene možno áno.
+* Krátkodobá korelácia cien dlhopisov a akcií je malá (cca 0.15 --- pohyb cien dlhopisov nahor či nadol takmer nesúvisí s pohybom cien akcií), ale dlhodobá okolo 0.5. Za najhorších podmienok v hospodárstve stúpajú korelácie k 1. Inak povedané, keď je zle, tak masívne prerobíte na akciách aj podnikových dlhopisoch. Záver: diverzifikačný benefit z dlhopisov oproti akciám nie je tak veľký, ako by sa mohol zdať. Výnimkou sú štátne dlhopisy bezpečných krajín.
+* Dlhopisy prichádzajú s výrazným inflačným rizikom: nominálne svoje peniaze naspäť dostanete, ale kúpite si za ne v budúcnosti oveľa menej. Inflácia predstavuje problém aj pre akcie, ale vo všeobecnosti firmy vyššie náklady prenesú do výstupných cien (aspoň postupne, keď aj nie ihneď). Výnimkou sú štátne inflačne chránené dlhopisy (napr. TIPS v USA).
+* Straty spôsobené infláciou sú zväčša permanentné (ceny už naspäť neklesnú). Akciové trhy sa po poklese zvyčajne do pár rokov spamätajú a straty zmažú.
+* Posledné desaťročia bolo populárne tzv. portfólio 60/40, ale jeho budúca užitočnosť je [otázna](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590406).
+* Keď sledujeme reálne výnosy z dlhopisov miesto nominálnych (t.j. očistené o infláciu), dlhopisy sú volatilné viac, než sa zdalo.
+* Riziká investovania do dlhopisov nie sú odmeňované tak dobre, ako riziká súvisiace s akciami. Dlhopisy majú vo väčšine období malý či dokonca záporný reálny výnos.
+* Na inflačne chránených štátnych dlhopisoch (TIPS) síce nezbohatnete, ale keď ste blízko dôchodku, možno ich výhodne využiť na redukciu rizika, že sa vám úplne minú peniaze. V niektorých obdobiach ich možno kúpiť s kladným výnosom (pozrite si ["real yield"](https://www.ishares.com/uk/individual/en/products/251714/ishares-tips-ucits-etf)). Ak ste investor, ktorý pri prepadoch na trhu nevie pokojne spať, možno chcete dať do niečoho ako TIPS veľkú časť úspor. Traduje sa, že aj jeden z najúspešnejších investorov Buffett povedal, že ak by dostal 4% reálny výnos z TIPS, nepotrebuje investovať do akcií.
+* Mnohé štúdie ukazujú, že korporátne dlhopisy v portfóliu nemajú užitočnú úlohu a je lepšie ich nahradiť kombináciou akcií a štátnych dlhopisov.
+* Vzhľadom na vysokú mieru dlhu v systéme (štáty, občania, firmy...) nemožno očakávať vyššie úrokové sadzby, čo centrálnym bankám sťažuje boj s infláciou. Naopak, ak politici nechcú prebytkové rozpočty ani zvyšovanie daní, ostáva im len znížiť pomer štátneho dlhu k HDP cez znehodnotenie peňazí (infláciu).
+
+Závery:
+* Vhodné aktíva do portfólia sú [krátkodobé štátne dlhopisy](https://www.ishares.com/uk/individual/en/products/307243/ishares-treasury-bond-0-1yr-ucits-etf) a [inflačne chránené štátne dlhopisy](https://www.ishares.com/uk/individual/en/products/251714/ishares-tips-ucits-etf).
+* Nevhodné sú korporátne (či dokonca high-yield) dlhopisy. Štátne dlhopisy s dlhou dobou splatnosti (nad 10 rokov) sú otázne a pre jednoduchosť ich možno úplne ignorovať.
+* Pre investorov s dlhým investičným horizontom (to sú aj začínajúci dôchodcovia, ktorí môžu očakávať, že sa dožijú ďalšie desiatky rokov) nominálnymi dlhopismi nemožno nahradiť niektoré pozitívne aspekty akcií (napr. podiel na raste produktivity práce, značná miera ochrany proti inflácii).

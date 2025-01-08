@@ -26,6 +26,7 @@ Nasleduje stručné zdôvodnenie tohto návodu.
 6. [Nekonajte na základe príbehov.](investing_narratives.md)
 7. [Neverte historickým výnosom.](investing_past_returns.md)
 8. [Pre dlhodobé investovanie sú akcie vhodnejšie ako dlhopisy.](stocks_vs_bonds.md)
+9. [Neinvestujte podľa makroekonomických predpovedí.](investing_macro_unreliable.md)
 
 
 ## Manažovanie, kontrola, riadenie rizika
@@ -94,7 +95,6 @@ richest man in babylon --- ak uz pribehy, tak taketo
 
 
 
-dont henge currency when investing in stocks
 
 costs of going public went up in the US, so only rather large us stocks are on the market (~billion or more before IPO), so having some allocation to leading private equity might make sense from the diversification standpoint (to have allocation to innovation etc.)
 https://youtu.be/qlUlSAe1Uqw
@@ -118,14 +118,6 @@ https://elmwealth.com/lessons-from-betting-on-a-biased-coin-cool-heads-and-cauti
 https://tpawplanner.com/
 
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590406
-Nominal bonds:
-short-term correlation to stocks 0.15, but long-term is 0.5, even higher than international markets
-prone to inflation
-no mean reversion, inflation tends to be persistent, losses due to inflation are not recovered (unlike stock market crashes typically)
-considering real returns instead of nominal, bonds are more volatile than they look
-these risks not rewarded well (expected real returns from bonds tend to be small or even negative)
-TIPS: not great for wealth accumulation, reinvestment risk (quite often negative real yield), but good for decreasing the risk of ruin in retirement (20-40% of portfolio makes sense)
 
 pozriet si vsetky ucebnice financnej gramotnosti
 

@@ -23,11 +23,15 @@ Nasleduje stručné zdôvodnenie tohto návodu.
 3. [Vlastníte viac, než sa zdá.](investing_you_own_more.md)
 4. [Nie každé riziko sa oplatí niesť.](investing_dangerous_risks.md)
 5. [Trh neporazíte.](investing_beating_market.md)
+6. [Vyhýbajte sa poplatkom.](investing_fees.md)
 6. [Nekonajte na základe príbehov.](investing_narratives.md)
 7. [Neverte historickým výnosom.](investing_past_returns.md)
 8. [Pre dlhodobé investovanie sú akcie vhodnejšie ako dlhopisy.](stocks_vs_bonds.md)
 9. [Neinvestujte podľa makroekonomických predpovedí.](investing_macro_unreliable.md)
+10. [Nehľadajte v investovaní zábavu ani vzrušenie.](investing_enjoyment.md)
+11. [50 obrázkov, ktoré by mal poznať každý investor.](https://brianferoldi.kit.com/50visuals)
 
+Keď raz spravíte dobré rozhodnutie, je kriticky dôležité vytrvať pri ňom. Nedáva zmysel meniť investičnú stratégiu každú chvíľu, dokonca ani raz za niekoľko rokov.
 
 ## Manažovanie, kontrola, riadenie rizika
 
@@ -97,16 +101,11 @@ richest man in babylon --- ak uz pribehy, tak taketo
 
 
 costs of going public went up in the US, so only rather large us stocks are on the market (~billion or more before IPO), so having some allocation to leading private equity might make sense from the diversification standpoint (to have allocation to innovation etc.)
+
+
 https://youtu.be/qlUlSAe1Uqw
 
 
-extremely important to stick with good decisions, e.g. don't change asset allocation every couple of years, let alone weekly
-
-ok to have enjoyment money, but generally you want a real life, not trying to find enjoyment by playing the stock market
-
-
-(smart beta mirage)
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3622753
 
 
 play
@@ -181,7 +180,6 @@ http://csinvesting.org/wp-content/uploads/2017/05/Bessembinder-Do-Stocks-Outperf
 42. how to identify trustworthy advisors: fee-only and not commissions, fiduciary standard of care, based on academic research and not opinions, takes into account risk and tax management, advice is goal-oriented, comprehensible planning including retirement etc.
 
 
-Summary: Theoretically, outperformance should not happen (and if it does, only randomly). In practice, outperformance does not happen, only very rarely, typically for short periods, and we have no reliable means of distinguishing it from luck or predicting into the future.
 
 
 TODO george: vyzera to velmi schodne

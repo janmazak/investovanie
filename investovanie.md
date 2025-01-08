@@ -9,7 +9,7 @@ Hoci na prvé prečítanie môže pôsobiť zložito, nebojte sa. To, čo potreb
 Tento stručný návod pokrýva potreby veľkej časti populácie. Viac detailov a vysvetlení nájdete v ďalšom texte.
 
 1. Naučte sa míňať menej, ako zarobíte, splaťte všetky dlhy s vysokým úrokom (vyššie ako úroky na hypotékach) a vytvorte si rezervný fond aspoň na úrovni 3-násobku mesačných príjmov.
-2. Zriaďte si účet u [nízkonákladového online brokera](https://uspesnynaburze.sk/najlepsi-etf-broker/), ktorý umožňuje obchodovať indexové fondy v podobe ETF (napr. [XTB](https://www.xtb.com/sk) či [IBKR](https://finfin.sk/interactive-brokers-recenzia/)).
+2. Zriaďte si účet u [nízkonákladového online brokera](https://uspesnynaburze.sk/najlepsi-etf-broker/), ktorý umožňuje obchodovať indexové fondy v podobe ETF (napr. [XTB](https://www.xtb.com/sk) či [IBKR](https://finfin.sk/interactive-brokers-recenzia/)). Chcete jednoduchý hotovostný účet, čiže zakázané požičiavanie peňazí od brokera (margin), zakázané obchodovanie s opciami a inými derivátmi atď.
 3. Pripravte si na investovanie aspoň niekoľko sto eur (suma musí byť dostatočná na minimálny vklad a dosť veľká na vyváženie minimálneho poplatku za obchod na burze). Preveďte peniaze k brokerovi (odporúčam zvoliť si takého, kde sa to dá spraviť bezplatným SEPA prevodom).
 4. Nakúpte za všetky peniaze široko diverzifikovaný indexový fond, napr. [ETF sledujúce index MSCI World](https://www.ishares.com/uk/individual/en/products/251882/ishares-msci-world-ucits-etf-acc-fund). Stačí pár kliknutí, dôsledne si však overte, čo kupujete --- porovnajte ticker aj kód ISIN a dajte si pozor, aby ste neinvestovali do nejakého derivátového nástroja (napr. kontraktu CFD súvisiaceho so želaným ETF).
 5. Keď znova našetríte ďalšie peniaze (napr. za mesiac či štvrťrok), investujte ich tak isto.
@@ -25,6 +25,8 @@ Nasleduje stručné zdôvodnenie tohto návodu.
 5. [Trh neporazíte.](investing_beating_market.md)
 6. [Nekonajte na základe príbehov.](investing_narratives.md)
 7. [Neverte historickým výnosom.](investing_past_returns.md)
+8. [Pre dlhodobé investovanie sú akcie vhodnejšie ako dlhopisy.](stocks_vs_bonds.md)
+
 
 ## Manažovanie, kontrola, riadenie rizika
 
@@ -87,6 +89,7 @@ Literatura:
 Howard Marks Memos
 Intelligent Investor
 Swedroe daco?
+richest man in babylon --- ak uz pribehy, tak taketo
 
 
 

@@ -11,3 +11,5 @@ Je kľúčové uvedomiť si, že hocijako máte majetok uložený, nejaké rizik
 >	Dívajte sa preto aj na neaktivitu ako na vedomé rozhodnutie (zväčša chybné).
 
 Typický príklad neaktivity: ak nešetrím nič na dôchodok, úplne sa spolieham na štát, že ma nenechá umrieť hladom (prípadne príbuzných). To možno áno, ale životný štandard bude mizerný kvôli demografii (veľa dôchodcov a málo pracujúcich). Oveľa viac dáva zmysel riziko rozložiť, napr. vstupom do indexového fondu v 2. pilieri, a k tomu ešte usporiť aj čosi navyše a investovať to mimo štátnych schém, najlepšie v zahraničí (na rozdiel od štátneho dôchodku tento majetok možno zanechať dedičom).
+
+Rizikové aktíva ako akcie majú atraktívne výnosy práve zato, že investovanie do nich zahŕňa riziko. Keby akcie nikdy nepoklesli, všetci by to vedeli a boli by za ne ochotní zaplatiť ďaleko viac, čo by spôsobilo mizerné budúce výnosy. Buďme teda radi, že existujú aj aktíva s vysokou volatilitou (veľkými cenovými pohybmi) a rizikom --- práve toto dáva každému šancu zbohatnúť či aspoň rozmnožiť úspory.

@@ -1,4 +1,4 @@
-# Praktický pohľad na investovanie (najmä z pohľadu Európana)
+# Prečo a ako investovať
 
 Tento text má ambíciu byť stručným úvodom do investovania všeobecne a zároveň ponúknuť praktické rady, ako možno rozumne investovať v Európe. Predpokladá u čitateľa všeobecný rozhľad v oblasti financií a využíva aj anglické či odbornejšie výrazy (ktoré umožnia čitateľovi dohľadať si súvislosti na internete). Použité príklady finančných produktov slúžia na ilustračné účely (nemusia byť najlepšie svojho typu; poplatky sa v čase menia a nové lepšie veci pribúdajú).
 
@@ -57,6 +57,7 @@ Súvisiacemu konceptu sa hovorí _tail risk_: netreba zabúdať na nepravdepodob
 Mnohé riziká vytvárajú ľudia tým, že sa angažujú v rizikových aktivitách. Napr. súčasné autá sú mnohokrát bezpečnejšie ako niekdajšie, máme povinné bezpečnostné pásy a detské sedačky a crashtesty, ale celková nehodovosť či úmrtnosť v autách veľmi neklesli: ľudia proste jazdia rýchlejšie a menej opatrne. (Cyklisti používajú za jazdy telefón oveľa menej, ako vodiči.) Aj horolezecké vybavenie je každým rokom bezpečnejšie, ale straty na životoch neklesajú, ľudia proste lezú, kde by si kedysi netrúfli. Finančná kríza v r. 2008 bola do značnej miery spôsobená rizikovým správaním vychádzajúcim z chybného predpokladu, že hypotéky nemôžu zlyhať v celých USA zároveň. Následne ľudia pridali k zdanlivo bezpečnej investícii kopu dlhu (leverage) a keď to prasklo, prasklo to masívne.
 
 Obavy z neistej budúcnosti možno celkom dobre riešiť poistením a prípravou alternatívnych finančných plánov (spôsoby redukcie výdavkov v prípade nutnosti). Investovať bez zmysluplného celkového finančného plánu je hlúpe.
+>   [A lot of] risk comes from not knowing what you're doing. (W. Buffett)
 
 Väčšina ľudí príliš verí nehnuteľnostiam a málo akciám (podielom vo firmách). Pritom máme množstvo príkladov z minulosti, ktoré ukazujú, ako sa to môže nevyplatiť. Zmeny štátneho zriadenia, vojny, kolaps priemyslených oblastí (napr. automobilky v Detroite), masová emigrácia či vymieranie populácie (v Japonsku je asi tretina domov prázdnych) neraz vedú k 100% strate nehnuteľnosti. Lokálne zmeny v okolí (napr. dopravné projekty, zle regulovaná výstavba, presuny sociálnych skupín, zraniteľnosť voči povodniam) zase môžu citeľne znížiť atraktívnosť nehnuteľnosti a zraziť jej cenu nadol. Demografické trendy spojené s poklesom populácie prakticky nemajú v historických dátach precedens; nenechajte sa oklamať rastom cien nehnuteľností za posledné storočie, sotva sa zopakuje. Byt na prenajímanie v meste, kde už beztak vlastníte jednu nehnuteľnosť na bývanie, alebo v krajine, kde očakávate, že zdedíte nehnuteľnosť po rodičoch, nemusí byť z hľadiska riadenia rizika dobrý nápad.
 
@@ -68,30 +69,33 @@ Niektoré udalosti sú veľmi nepravdepodobné, ale vedú k masívnym škodám. 
 
 ## Koľko investovať do akcií?
 
-Je plne na vás, aké riziká sa rozhodnete podstúpiť. Najväčší vplyv na konečný výsledok však bude mať to, či sa viete vysporiadať s _volatilitou_ (výkyvmi) a najmä s dočasnými poklesmi cien. Ak si kúpite podiel vo firme obchodovanej na burze (akcie), jeho trhová cena sa bude meniť v každom momente, a ak ju budete sledovať, má to nezanedbateľný psychologický vplyv. A situáciu na trhoch sledovať skoro iste budete: bude sa to rozoberať v novinách, medzi kolegami v práci... 
+Je plne na vás, aké riziká sa rozhodnete podstúpiť. Najväčší vplyv na konečný výsledok však bude mať to, či sa viete vysporiadať s _volatilitou_ (výkyvmi) a najmä s dočasnými poklesmi cien. Ak si kúpite podiel vo firme obchodovanej na burze (akcie), jeho trhová cena sa bude meniť v každom momente, a ak ju budete sledovať, má to nezanedbateľný psychologický vplyv. A situáciu na trhoch sledovať skoro iste budete: bude sa to rozoberať v novinách, medzi kolegami v práci...
 
 Aj akcie najstabilnejších firiem môžu klesnúť za pár týždňov či mesiacov o desiatky percent kvôli zmenenej nálade ostatných investorov či kvôli nečakaným udalostiam (bankrot veľkej banky, pandémia, nedostatok ropy...). Ak akcie v takejto nevýhodnej chvíli predáte, prídete o celý potenciálny budúci zisk z ich opätovného rastu. Nie každý však dokáže nepredávať pri poklesoch. Nepodceňujte to: podľa [štúdií](https://fitz.com.au/why-do-investors-earn-less-than-the-funds-they-invest-in/) investori dosahujú aj o 3% menší výnos než fondy, do ktorých investujú, pretože opakovane v nevhodný čas veci nakupujú a predávajú --- bolo by lepšie, keby po úvodnom nákupe už nerobili nič.
 
 >	Zistite o sebe čím skôr, ako prežívate pokles hodnoty investície. Na to treba investovať do niečoho s veľkými výkyvmi (napr. akcie) sumu, ktorej stratu už poriadne precítite (niekoľkomesačný až ročný príjem by mohlo byť dosť). Ak pri poklese nemôžete v noci pokojne spať, alebo o investícii denne premýšľate, musíte to zohľadniť vo svojej investičnej stratégii. Pozor: [_neverte dotazníkom_](https://www.evidenceinvestor.com/how-useful-are-risk-tolerance-questionnaires/) s hypotetickými otázkami; je ľahké sa oklamať, ak ste nikdy stratu z investície nezažili. Vaša tolerancia k riziku pri investovaní môže byť výrazne odlišná od rizikovej tolerancie v iných životných aktivitách.
 
-Užitočným nástrojom pre úvahy o vhodnej miere rizika poskytuje [framework ability-willingness-need](ability_willingness_need.md).
+Investovanie je aktivita, kde sa dobré výsledky dosahujú najmä tým, že sa vyhýbate známym chybám (napr. pri [vyhodnocovaní rozhodnutí](evaluating_decisions.md)).
 
 Ešte pred investovaním si ujasnite ciele: rozumným cieľom investovania nie je maximalizovať zisk, ale maximalizovať pravdepodobnosť, že dosiahnete svoje ciele.
-Viac na túto tému: [čo pri investovaní optimalizujeme?](investing_optimization_goals.md)
+Viac na túto tému: [čo pri investovaní optimalizujeme?](investing_optimization_goals.md) Majte na mysli, že bohatstvo má klesajúcu marginálnu utilitu --- z prvých stotisíc máte oveľa viac úžitku či pôžitku ako z druhých stotisíc.
+>   Never risk what you have and need for what you don't have and don't need. (Warren Buffett)
 
-A vyhýbajte sa bežným chybám pri [vyhodnocovaní rozhodnutí](evaluating_decisions.md).
+Aký je vhodný pomer riskantných investícií (akcie, nehnuteľnosti...) a bezpečných investícií (hotovosť, štátne dlhopisy)? Na túto tému nájdete prakticky nekonečné množsto diskusií a materiálov a žiadne pevné spoľahlivé závery. Čím dlhší horizont máte, tým viac sú atraktívne akcie, ale zároveň počas dlhých období je väčšia šanca, že svet sa výrazne zmení (napr. príde vojna). Užitočným nástrojom pre úvahy o vhodnej miere rizika poskytuje [framework ability-willingness-need](ability_willingness_need.md). Pre väčšinu ľudí nemá veľký význam špekulovať nad alokáciou variabilnou v čase, ale pre sofistikovanejších investorov [potenciálne áno](https://elmwealth.com/lessons-from-betting-on-a-biased-coin-cool-heads-and-cautionary-tales/). Poklesy a medvedie trhy sa nedajú predvídať, majte vopred pripravenú stratégiu a držte sa jej.
+
+V princípe chcete mať veľkú finančnú rezervu v čomsi bezpečnom (termínované vklady, krátkodobé štátne dlhopisy) a potom čím viac úspor investovaných v akciách (nakoľko len viete ustáť poklesy trhu).
 
 
 ## Investovať požičané peniaze?
 
 Predstavme si situáciu, že si požičiam peniaze v banke za 4% a investujem ich do akcií s očakávaným výnosom povedzme 8-10%. Mal by som to urobiť?
 
-Na túto otázku neexistuje jednoznačná odpoveď. Fakt je, že dlh znižuje šancu na prežitie tým, že [zmenšuje rozsah](https://collabfund.com/blog/how-i-think-about-debt/) negatívnych udalostí, ktoré po finančnej stránke prežijete. Zároveň za bežných okolností zvyšuje výnosy. Ak chcete využívať pri investovaní dlh, dajte si pozor, aby ste sa nevystavovali existenčným rizikám. Vyhýbajte sa investovaniu peňazí, ktoré majú krátku dobu do splatnosti --- de facto je jediný vhodný zdroj peňazí hypotéka s čo najdlhšou splatnosťou (nie napr. spotrebné úvery so splatnosťou niekoľko rokov). Väčšina ľudí nie je v pozícii splatiť hypotéku rýchlo či rovno si kúpiť nehnuteľnosť za hotovosť, neznamená to však, že nesmú investovať po väčšinu svojho života --- naopak, je dôležité začať investovať už v mladosti.
+Na túto otázku neexistuje jednoznačná odpoveď. Fakt je, že dlh znižuje šancu na prežitie tým, že [zmenšuje rozsah](https://collabfund.com/blog/how-i-think-about-debt/) negatívnych udalostí, ktoré po finančnej stránke prežijete. Zároveň za bežných okolností zvyšuje výnosy. Ak chcete využívať pri investovaní dlh, dajte si pozor, aby ste sa nevystavovali existenčným rizikám. Vyhýbajte sa investovaniu peňazí, ktoré majú krátku dobu do splatnosti --- de facto je jediný vhodný zdroj peňazí hypotéka s čo najdlhšou splatnosťou a čo najdlhšou fixáciou úrokovej sadzby (nie napr. spotrebné úvery so splatnosťou niekoľko rokov). Väčšina ľudí nie je v pozícii splatiť hypotéku rýchlo či rovno si kúpiť nehnuteľnosť za hotovosť, neznamená to však, že nesmú investovať po väčšinu svojho života --- naopak, je dôležité začať investovať už v mladosti.
 
 
 ## Literatúra
 
-Dajte si pozor, aby ste čítaniu o investovaní nevenovali priveľa času, ak to nie je váš profesionálny záujem (či hobby).
+Dajte si pozor, aby ste čítaniu o investovaní nevenovali priveľa času, ak to nie je váš profesionálny záujem či hobby.
 Zopár hodnotných materiálov:
 
 * [Benjamin Graham: The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Third-Definitive-Investing/dp/0063423529)

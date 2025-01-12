@@ -24,12 +24,15 @@ Nasleduje stručné zdôvodnenie tohto návodu.
 4. [Nie každé riziko sa oplatí niesť.](investing_dangerous_risks.md)
 5. [Trh neporazíte.](investing_beating_market.md)
 6. [Vyhýbajte sa poplatkom.](investing_fees.md)
-6. [Nekonajte na základe príbehov.](investing_narratives.md)
-7. [Neverte historickým výnosom.](investing_past_returns.md)
-8. [Pre dlhodobé investovanie sú akcie vhodnejšie ako dlhopisy.](stocks_vs_bonds.md)
-9. [Neinvestujte podľa makroekonomických predpovedí.](investing_macro_unreliable.md)
-10. [Nehľadajte v investovaní zábavu ani vzrušenie.](investing_enjoyment.md)
-11. [50 obrázkov, ktoré by mal poznať každý investor.](https://brianferoldi.kit.com/50visuals)
+7. [Nekonajte na základe príbehov.](investing_narratives.md)
+8. [Neverte historickým výnosom.](investing_past_returns.md)
+9. [Pre dlhodobé investovanie sú akcie vhodnejšie ako dlhopisy.](stocks_vs_bonds.md)
+10. [Neinvestujte podľa makroekonomických predpovedí.](investing_macro_unreliable.md)
+11. [Nehľadajte v investovaní zábavu ani vzrušenie.](investing_enjoyment.md)
+12. [Denné obchodovanie je cesta k stratám.](investing_no_daytrading.md)
+
+Veľmi užitočný prehľad rôznych faktov o investovaní nájdete aj v dokumente
+[50 obrázkov, ktoré by mal poznať každý investor](https://brianferoldi.kit.com/50visuals).
 
 Keď raz spravíte dobré rozhodnutie, je kriticky dôležité vytrvať pri ňom. Nedáva zmysel meniť investičnú stratégiu každú chvíľu, dokonca ani raz za niekoľko rokov.
 
@@ -112,7 +115,6 @@ play
 https://elmwealth.com/coin-flip/game/
 https://elmwealth.com/lessons-from-betting-on-a-biased-coin-cool-heads-and-cautionary-tales/
 
-50 Visuals Every Investor Should Memorize eBook 
 
 https://tpawplanner.com/
 

@@ -91,15 +91,15 @@ Na túto otázku neexistuje jednoznačná odpoveď. Fakt je, že dlh znižuje š
 
 ## Literatúra
 
-Dajte si pozor, aby ste čítaniu o investovaní nevenovali priveľa času, ak na tom nemáte profesionálny záujem.
-Z hodnotných materiálov sa oplatí pozrieť na tieto:
+Dajte si pozor, aby ste čítaniu o investovaní nevenovali priveľa času, ak to nie je váš profesionálny záujem (či hobby).
+Zopár hodnotných materiálov:
 
 * [Benjamin Graham: The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Third-Definitive-Investing/dp/0063423529)
 * [Warren Buffett's letters to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/letters/letters.html)
 * [Howard Marks: The most important thing](https://www.amazon.com/Most-Important-Thing-Thoughtful-Publishing/dp/0231153686)
 * [Howard Marks' memos](https://www.oaktreecapital.com/insights/memos)
 * [Larry Swedroe](https://x.com/larryswedroe): knihy, články a podcasty, napr. [The Incredible Shrinking Alpha](https://www.amazon.com/Incredible-Shrinking-Alpha-2nd-successful/dp/0857198246)
-* [G. Clason: Najbohatší muž v Babylone](https://www.martinus.sk/515031-najbohatsi-muz-v-babylone/kniha) --- príbehy skôr pre deti
+* [G. Clason: Najbohatší muž v Babylone](https://www.martinus.sk/515031-najbohatsi-muz-v-babylone/kniha) --- príbehy skôr pre deti, vhodné ako súčasť finančného vzdelávania
 * Rational Reminder --- [fórum](https://community.rationalreminder.ca/) s praktickými informáciami najmä o factor investing, seriózne podcasty, napr. https://rationalreminder.ca/podcast/299
 * [Acquired](https://www.acquired.fm/) --- fascinujúce podrobné príbehy o úspešných firmách
 

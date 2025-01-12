@@ -23,18 +23,18 @@ Nasleduje stručné zdôvodnenie tohto návodu.
 3. [Vlastníte viac, než sa zdá.](investing_you_own_more.md)
 4. [Nie každé riziko sa oplatí niesť.](investing_dangerous_risks.md)
 5. [Trh neporazíte.](investing_beating_market.md)
-6. [Vyhýbajte sa poplatkom.](investing_fees.md)
-7. [Nekonajte na základe príbehov.](investing_narratives.md)
-8. [Neverte historickým výnosom.](investing_past_returns.md)
-9. [Pre dlhodobé investovanie sú akcie vhodnejšie ako dlhopisy.](stocks_vs_bonds.md)
-10. [Neinvestujte podľa makroekonomických predpovedí.](investing_macro_unreliable.md)
-11. [Nehľadajte v investovaní zábavu ani vzrušenie.](investing_enjoyment.md)
-12. [Denné obchodovanie je cesta k stratám.](investing_no_daytrading.md)
+6. [Denné obchodovanie je cesta do pekla.](investing_no_daytrading.md)
+7. [Vyhýbajte sa poplatkom.](investing_fees.md)
+8. [Nekonajte na základe príbehov.](investing_narratives.md)
+9. [Neverte historickým výnosom.](investing_past_returns.md)
+10. [Pre dlhodobé investovanie sú akcie vhodnejšie ako dlhopisy.](stocks_vs_bonds.md)
+11. [Neinvestujte podľa makroekonomických predpovedí.](investing_macro_unreliable.md)
+12. [Nehľadajte v investovaní zábavu ani vzrušenie.](investing_enjoyment.md)
 
 Veľmi užitočný prehľad rôznych faktov o investovaní nájdete aj v dokumente
 [50 obrázkov, ktoré by mal poznať každý investor](https://brianferoldi.kit.com/50visuals).
 
-Keď raz spravíte dobré rozhodnutie, je kriticky dôležité vytrvať pri ňom. Nedáva zmysel meniť investičnú stratégiu každú chvíľu, dokonca ani raz za niekoľko rokov.
+Keď raz spravíte dobré rozhodnutie, je kriticky dôležité vytrvať pri ňom. Nedáva zmysel meniť investičnú stratégiu každú chvíľu, dokonca ani každých pár rokov.
 
 ## Manažovanie, kontrola, riadenie rizika
 
@@ -72,136 +72,34 @@ Je plne na vás, aké riziká sa rozhodnete podstúpiť. Najväčší vplyv na k
 
 Aj akcie najstabilnejších firiem môžu klesnúť za pár týždňov či mesiacov o desiatky percent kvôli zmenenej nálade ostatných investorov či kvôli nečakaným udalostiam (bankrot veľkej banky, pandémia, nedostatok ropy...). Ak akcie v takejto nevýhodnej chvíli predáte, prídete o celý potenciálny budúci zisk z ich opätovného rastu. Nie každý však dokáže nepredávať pri poklesoch. Nepodceňujte to: podľa [štúdií](https://fitz.com.au/why-do-investors-earn-less-than-the-funds-they-invest-in/) investori dosahujú aj o 3% menší výnos než fondy, do ktorých investujú, pretože opakovane v nevhodný čas veci nakupujú a predávajú --- bolo by lepšie, keby po úvodnom nákupe už nerobili nič.
 
->	Zistite o sebe čím skôr, ako prežívate pokles hodnoty investície. Na to treba investovať do niečoho s veľkými výkyvmi (napr. akcie) sumu, ktorej stratu už poriadne precítite (odhadujem, že niekoľkomesačný až ročný príjem by mohlo byť dosť). Ak pri poklese nemôžete v noci pokojne spať, alebo o investícii denne premýšľate, musíte to zohľadniť vo svojej investičnej stratégii. Pozor: [_neverte dotazníkom_](https://www.evidenceinvestor.com/how-useful-are-risk-tolerance-questionnaires/) s hypotetickými otázkami; je ľahké sa oklamať, ak ste nikdy stratu z investície nezažili. Vaša tolerancia k riziku pri investovaní môže byť výrazne odlišná od rizikovej tolerancie v iných životných aktivitách.
+>	Zistite o sebe čím skôr, ako prežívate pokles hodnoty investície. Na to treba investovať do niečoho s veľkými výkyvmi (napr. akcie) sumu, ktorej stratu už poriadne precítite (niekoľkomesačný až ročný príjem by mohlo byť dosť). Ak pri poklese nemôžete v noci pokojne spať, alebo o investícii denne premýšľate, musíte to zohľadniť vo svojej investičnej stratégii. Pozor: [_neverte dotazníkom_](https://www.evidenceinvestor.com/how-useful-are-risk-tolerance-questionnaires/) s hypotetickými otázkami; je ľahké sa oklamať, ak ste nikdy stratu z investície nezažili. Vaša tolerancia k riziku pri investovaní môže byť výrazne odlišná od rizikovej tolerancie v iných životných aktivitách.
 
 Užitočným nástrojom pre úvahy o vhodnej miere rizika poskytuje [framework ability-willingness-need](ability_willingness_need.md).
 
 Ešte pred investovaním si ujasnite ciele: rozumným cieľom investovania nie je maximalizovať zisk, ale maximalizovať pravdepodobnosť, že dosiahnete svoje ciele.
 Viac na túto tému: [čo pri investovaní optimalizujeme?](investing_optimization_goals.md)
 
+A vyhýbajte sa bežným chybám pri [vyhodnocovaní rozhodnutí](evaluating_decisions.md).
 
 
+## Investovať požičané peniaze?
+
+Predstavme si situáciu, že si požičiam peniaze v banke za 4% a investujem ich do akcií s očakávaným výnosom povedzme 8-10%. Mal by som to urobiť?
+
+Na túto otázku neexistuje jednoznačná odpoveď. Fakt je, že dlh znižuje šancu na prežitie tým, že [zmenšuje rozsah](https://collabfund.com/blog/how-i-think-about-debt/) negatívnych udalostí, ktoré po finančnej stránke prežijete. Zároveň za bežných okolností zvyšuje výnosy. Ak chcete využívať pri investovaní dlh, dajte si pozor, aby ste sa nevystavovali existenčným rizikám. Vyhýbajte sa investovaniu peňazí, ktoré majú krátku dobu do splatnosti --- de facto je jediný vhodný zdroj peňazí hypotéka s čo najdlhšou splatnosťou (nie napr. spotrebné úvery so splatnosťou niekoľko rokov). Väčšina ľudí nie je v pozícii splatiť hypotéku rýchlo či rovno si kúpiť nehnuteľnosť za hotovosť, neznamená to však, že nesmú investovať po väčšinu svojho života --- naopak, je dôležité začať investovať už v mladosti.
 
 
-## Ako vyhodnocovať rozhodnutia
+## Literatúra
 
-Správne vyhodnocovanie rozhodnutí je kľúčové: dobré rozhodnutia niekedy vedú k zlým výsledkom a naopak zlé rozhodnutia k dobrým. Rozhodnutie nemožno hodnotiť len na základe výsledku; napr. kúpa žrebu v lotérii, kde v priemere očakávate stratu (menšiu priemernú výhru než cena žrebu), je zlým rozhodnutím bez ohľadu na to, či nakoniec vyhráte (okrem veľmi výnimočných okolností typu "mám tak málo peňazí, že od hladu do zajtra umriem či už si žreb kúpim alebo nie"). Ak investujete do rizikovejších aktív, skôr či neskôr realizujete nejakú stratu; to však nijako neznamená, že vaše rozhodnutie investovať bolo zlé.
+Dajte si pozor, aby ste čítaniu o investovaní nevenovali priveľa času, ak na tom nemáte profesionálny záujem.
+Z hodnotných materiálov sa oplatí pozrieť na tieto:
 
-Dávajte tiež pozor, že pri hodnotení rozhodnutia možno zohľadňovať len informácie, ktoré boli v momente rozhodovania k dispozícii. Môžete si vynadať, že ste zisťovaniu informácií venovali málo času, ale nie zato, čo sa zistilo až oveľa neskôr a nijako o tom nebolo možné vedieť v čase rozhodovania.
-
-Taktiež by ste nemali zabúdať pri rozhodovaní hľadieť dopredu: je jedno, koľko ste niečomu venovali času či úsilia v minulosti (sunken cost fallacy), podstatné je, čo možno čakať v budúcnosti. Podobne nemožno naivne zovšeobecňovať historické výnosy akcií či podielových fondov: mnoho vecí skôr vykazuje [_mean reversion_](https://www.investopedia.com/terms/m/meanreversion.asp), čiže aktíva, ktorým sa v posledných rokoch darilo zle, majú sklon vykazovať vyššie výnosy ako tie, ktorým sa darilo dobre.
-
-
-Literatura:
-
-Howard Marks Memos
-Intelligent Investor
-Swedroe daco?
-richest man in babylon --- ak uz pribehy, tak taketo
-
-
-
-
-
-costs of going public went up in the US, so only rather large us stocks are on the market (~billion or more before IPO), so having some allocation to leading private equity might make sense from the diversification standpoint (to have allocation to innovation etc.)
-
-
-https://youtu.be/qlUlSAe1Uqw
-
-
-
-
-play
-https://elmwealth.com/coin-flip/game/
-https://elmwealth.com/lessons-from-betting-on-a-biased-coin-cool-heads-and-cautionary-tales/
-
-
-https://tpawplanner.com/
-
-
-
-pozriet si vsetky ucebnice financnej gramotnosti
-
-TODO
-
-
-lessons most important etc.:
-https://rationalreminder.ca/podcast/299
-
-
-book
-Swedroe: Enrich Your Future
-
-1. factor models explain about 90% of returns of diversified portfolios, and also explain almost all of Buffett's outperformance
-2. markets set prices so that better businesses are more expensive, i.e. trade for higher multiples of earnings and equity(and thus less risky stocks have lower expected returns);
-efficient market --- it is difficult to persistently exploit mispricings, esp. after expenses / new info immediately incorporated into prices [a couple of trades is enough acc. to som study]
-prices are not set by amateurs, but mostly by professionals in institutions, collectively
-information is not all in the hands of one person, it is dispersed, so relying just on your own information is unlikely to lead to best-informed decisions
-3. pri sporte jednotlivci superia voci jednotlivcom, ale pri investovani je to jednotlivec proti celemu trhu --- a pre hocijaku jeho kvalitu sa najde niekto, kto ma tejto kvality viac, plus investicne strategie sa daju kopirovat, plus s rastucim kapitalom je tazsie dosahovat nadvynosy --- preto perzistencia nadvynosu je velmi mala; konvencny pohlad, ze minule vynosy sa daju pouzit ako prediktor buducich vynosov, sa na investovanie neda aplikovat (hoci funguje pre vacsinu oblasti zivota), neraz je to skor naopak (reversion to the mean pre aktiva, ktore dany investor preferuje)
-4. closet index funds; tazkost rozlisit superioritu manazera (skor umrie ako dosiahne statisticky vyznamny nadvynos, kedze ten nadvynos je typicky malicky)
-5. akcie dobrych firiem neznamenaju vysoke vynosy, vsetko je kompenzovane ich vyssou nakupnou cenou; vyssie riziko je naopak kompenzovane vyssim ocakavanym vynosom
-6. ever increasing difficulty in generating alpha: progressing academic research, shrinking pool of victims, increased competition (in terms of capital and people), falling trading costs helping arbitrage, absolute level of skill is increasing (so results more random); collective wisdom of crowds is getting to be a tougher competitor
-7. with easily disseminated information, value of security analysis is lower, even managements with inside info have trouble determining fair values (e.g. repurchases and acquisitions tend to be off the mark)
-8. forecasts of country GDP growth are pretty much irrelevant for stock market returns, it's even somewhat negatively correlated; individual predictions bear costs of research etc., but does not seem to be of much value, because the value is in the positive surprises that are not priced in
-9. "fed model", i.e. E/P vs. risk-free rate as predictor of returns, does not work (ignores inflationary growth) and confuses absolute and relative returns (at 1% interest rates, fair value for stocks should be P/E 100)
-10. big US pension funds have tons of money to pay for consultants, research, best products, and they still underperform the market; why would you try? at most a tiny fraction of money should be used for betting and similar entertainment
-11. pretty much impossible to identify outperforming managers ahead of time, luck plays too big a role; if you have too many coin tosser predictors, some look 100% correct for a long time
-12. negative performance comes at a greater pain than one would get from outperformance of the same magnitude, why subject oneself to the possibility of the pain?
-13. why do people repeatedly try to select an outperforming manager? does not make sense since they repeatedly fail and the situation is worsening over time (see e.g. point 6)
-14. stocks are risky also on long time horizons (e.g. Argentina, Japan between 1990 and 2022, almost nuclear war during Soviet Union times); tail risks from pandemics etc., Lubos Pastor work on increasing uncertainty with longer horizons; taleb: history teaches us that things that never happened before do happen (fooled by randomness)
-15. individual stocks are risky: median stock has mediocre returns way below market avg., only 2% of stocks produced all the gains between 1983 and 2006, etc.
-(https://mebfaber.com/wp-content/uploads/2020/08/The_Capitalism_Distribution_12.12.12_1_.pdf)
-only 2.3% stocks outperformed since 1920s, only 40% stocks better than Tbills
-http://csinvesting.org/wp-content/uploads/2017/05/Bessembinder-Do-Stocks-Outperform-Treasury-Bills.pdf
-16. due to reflexive nature of stocks market and economy, reliable predictions are pretty much impossible; be aware of sequence risk (x% withdrawal rule is not safe in the sense that you can withdraw every year, even if you can withdraw on average)
-17. individual stocks should be judged as parts of a larger portfolio (e.g. two perfectly negatively correlated securities nullify each other; adding a bit of international stocks improves both returns and sharpe ratio of US stock portfolio)
-18. black swans, fat tails, not normal distribution of returns; missing best and worst days has massive impact on returns
-19. gold is not a safe haven; at some point it lost 85% of purchasing power over 22 years
-20. considering the evidence, managing money not passively is an act of malfeasance
-21. people are overconfident, but don't even know their own returns, they tend to vastly overestimate them
-22. some risks are not worth taking (consequences should dominate probabilities, Pascal's wager); don't put much in the stock of your employer
-23. use monte carlo simulation; be careful with framing questions (invert --- do not only ask how many will die, but also how many will survive)
-24. activity in investing tends to be counterproductive: people underperform the funds in which they invest because they move in and out way above common rebalancing
-25. bear markets cannot be avoided or anticipated; be ready for them upfront, with a sensible strategy
-26. lump sum is better than dollar-cost averaging, but psychologically it might help to invest not all at once (but get a specific plan upfront and then carry it out, easier with help of others)
-27. pascal's wager again, insurance (life, health, long-term care), asset allocation different for getting rich vs. staying rich; TIPS are advantageous for most people (no need to worry about how to beat inflation or betting it will be low)
-28. endowment effect --- don't get married to your investments
-29. avoid behavioral errors
-30. preference for dividends is economically (and tax-wise) irrational; could be rational for people who do not have discipline and a strict line between "invested portfolio" and "cash to spend" might help them; or higher stability of dividends vs. stock prices would keep them invested through downturns
-31. lots of uncertainty in investing, impossible to estimate anything with precision; don't take on too much risk or uncertainty if you can't bear it
-32. real returns of strategies based on academic market inefficiencies tend to not work well, partially because of costs; don't spend time trying to find 20 dollar bills just because you have once found one
-33. tennis is a winner's game only for the pros who could consistently hit winners, for the unskilled, it's about avoiding mistakes for as long as possible, similarly with investing; don't be overconfident
-34. risk premiums are there only because the risk is present; bear markets are a necessary evil, ditto for factors underperforming for long periods, even decades
-35. investing is not to be entertaining (e.g. Jim Cramer), successful investing is usually dull (like Mungers' sitting on your ass doing nothing), earning money in your sleep, and buffett's "inactivity strikes us as intelligent behavior"
-36. fashion and herd mentality affect us all; have a plan for diversified portfolio and ignore the noise and temptations and fads
-37. strategies that are only based on behavioral anomaly, not on risk, are likely to fail, e.g. sell in may and go away
-38. chasing hot funds is unlikely to work (cf. Cathie Wood)
-39. after having basic necessities like food and shelter, utility of money decreases significantly; don't risk those; don't confuse your needs with desires (and don't take on too much risk that is not really necessary)
-40. get your excitement elsewhere (not in investing); passive indexing frees your time to do valuable interesting things with friends and family
-41. again on passive vs. active, nothing new; there are ETFs with ~zero expense ratios
-42. how to identify trustworthy advisors: fee-only and not commissions, fiduciary standard of care, based on academic research and not opinions, takes into account risk and tax management, advice is goal-oriented, comprehensible planning including retirement etc.
-
-
-
-
-TODO george: vyzera to velmi schodne
-https://www.slsp.sk/sk/ludia/investovanie/etf-fondy#/8457b7/id/dane
-maju tam napr.
-IE00BGSF1X88	ISHARES ETF US TREAS 0-1YR USD
-IE00B0M62X26	ISHARES EU INF-LNK GOV BD ETF
-IE00B6R52259	ISHARES MSCI ACWI UCITS ETF
-IE00B5BMR087	ISHARES CORE S&P 500 UCIT ETF
-IE00B4L5Y983	ISHARES CORE MSCI WORLD X ETF
-IE00B53L3W79	ISHARES CORE EUR STOXX 50 ETF
-IE00BKM4GZ66	ISHARES CORE EM IMI ETF
-
-
-https://seekingalpha.com/article/4689343-most-investments-are-bad-heres-why-and-what-to-do-about-it
-https://collabfund.com/blog/how-i-think-about-debt/
-
-
-
-
-In the sweep of history, that we regard government debt as “risk free” is a rare privilege of the post WWII calm. Defaults and inflations over the cen- turies, and in countries from Latin America to Greece today, have been an ever present risk. We take for granted that the US will always inflate rather than default, but explicit default is
-
+* [Benjamin Graham: The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Third-Definitive-Investing/dp/0063423529)
+* [Warren Buffett's letters to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/letters/letters.html)
+* [Howard Marks: The most important thing](https://www.amazon.com/Most-Important-Thing-Thoughtful-Publishing/dp/0231153686)
+* [Howard Marks' memos](https://www.oaktreecapital.com/insights/memos)
+* [Larry Swedroe](https://x.com/larryswedroe): knihy, články a podcasty, napr. [The Incredible Shrinking Alpha](https://www.amazon.com/Incredible-Shrinking-Alpha-2nd-successful/dp/0857198246)
+* [G. Clason: Najbohatší muž v Babylone](https://www.martinus.sk/515031-najbohatsi-muz-v-babylone/kniha) --- príbehy skôr pre deti
+* Rational Reminder --- [fórum](https://community.rationalreminder.ca/) s praktickými informáciami najmä o factor investing, seriózne podcasty, napr. https://rationalreminder.ca/podcast/299
+* [Acquired](https://www.acquired.fm/) --- fascinujúce podrobné príbehy o úspešných firmách
 

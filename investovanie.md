@@ -15,7 +15,7 @@ Tento stručný návod pokrýva potreby veľkej časti populácie. Viac detailov
 5. Keď znova našetríte ďalšie peniaze (napr. za mesiac či štvrťrok), investujte ich tak isto.
 6. Investície nepredávajte (okrem vynútených prípadov, napr. súvisiacich s úmrtím v rodine). Pri predaji pozor na dane.
 
-Miesto brokera možno využiť finančnú inštitúciu či sprostredkovateľa, napr. [SLSP](https://www.slsp.sk/sk/ludia/investovanie/etf-fondy) alebo 3. pilier (napr. [NN](https://www.financnykompas.sk/dochodok-3-pilier) tam má indexový fond). Je to však zvyčajne poplatkovo menej výhodné; dajte si pozor najmä na poplatky platené opakovane (napr. každý rok), ich efekt sa za desaťročia prejaví oveľa výraznejšie, než sa zdá na prvý pohľad (za 30-40 rokov môžete mať aj o štvrtinu peňazí menej).
+Miesto brokera možno využiť finančnú inštitúciu či sprostredkovateľa, napr. [SLSP](https://www.slsp.sk/sk/ludia/investovanie/etf-fondy) alebo 3. pilier (napr. [NN](https://www.financnykompas.sk/dochodok-3-pilier) tam má indexový fond). Je to však zvyčajne poplatkovo menej výhodné; dajte si pozor najmä na poplatky platené opakovane (napr. každý rok), ich efekt sa za desaťročia prejaví oveľa výraznejšie, než sa zdá na prvý pohľad (za 30-40 rokov môžete mať aj o štvrtinu peňazí menej). Vo všeobecnosti dáva zmysel zamerať sa na veci, nad ktorými máte kontrolu (poplatky, dane, úspory vs. výdavky), nie tie ostatné (výnosy akciového trhu, nálada iných investorov apod.).
 
 Nasleduje stručné zdôvodnenie tohto návodu.
 1. [Investovať do rizikovejších aktív je nutné.](investing_necessary_risk.md)
@@ -33,6 +33,8 @@ Nasleduje stručné zdôvodnenie tohto návodu.
 
 Veľmi užitočný prehľad rôznych faktov o investovaní nájdete aj v dokumente
 [50 obrázkov, ktoré by mal poznať každý investor](https://brianferoldi.kit.com/50visuals).
+
+Dávajte si pozor na [kognitívne skreslenia](https://en.wikipedia.org/wiki/List_of_cognitive_biases), ktoré spôsobuje ľudská myseľ. Je veľmi ľahké oklamať sám seba, a tieto skreslenia radi využívajú aj kadejakí podvodníci a manipulátori.
 
 Keď raz spravíte dobré rozhodnutie, je kriticky dôležité vytrvať pri ňom. Nedáva zmysel meniť investičnú stratégiu každú chvíľu, dokonca ani každých pár rokov.
 
@@ -66,7 +68,6 @@ V špecifických osobných situáciách viete investovaním oslabiť riziká, kt
 Niektoré udalosti sú veľmi nepravdepodobné, ale vedú k masívnym škodám. Scenáre ako jadrová vojna, celosvetová nemožnosť pestovať potraviny po výbuchu sopky, zničujúca pandémia atď. existujú, ale v podstate s nimi človek ako jednotlivec nevie spraviť nič. Typicky sú aj vylúčené z poistenia. Vo všeobecnosti dáva zmysel pristupovať k nim takto: ak nebude čo jesť alebo umieram na radiáciu alebo nik nemá elektrinu, moje akciové investície ma veľmi zaujímať nebudú, bez ohľadu na ich straty. Tieto druhy rizika sa proste neriešia na úrovni investícií či peňazí vôbec (ale môže sa z vás stať _prepper_). Budeme ich preto pri finančom plánovaní ignorovať.
 > Never bet on the end of the world, you'll only be right once and you won't be able to collect.
 
-
 ## Koľko investovať do akcií?
 
 Je plne na vás, aké riziká sa rozhodnete podstúpiť. Najväčší vplyv na konečný výsledok však bude mať to, či sa viete vysporiadať s _volatilitou_ (výkyvmi) a najmä s dočasnými poklesmi cien. Ak si kúpite podiel vo firme obchodovanej na burze (akcie), jeho trhová cena sa bude meniť v každom momente, a ak ju budete sledovať, má to nezanedbateľný psychologický vplyv. A situáciu na trhoch sledovať skoro iste budete: bude sa to rozoberať v novinách, medzi kolegami v práci...
@@ -99,11 +100,12 @@ Dajte si pozor, aby ste čítaniu o investovaní nevenovali priveľa času, ak t
 Zopár hodnotných materiálov:
 
 * [Benjamin Graham: The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Third-Definitive-Investing/dp/0063423529)
+* [Poor Charlie's almanack](https://www.stripe.press/poor-charlies-almanack)
 * [Warren Buffett's letters to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/letters/letters.html)
 * [Howard Marks: The most important thing](https://www.amazon.com/Most-Important-Thing-Thoughtful-Publishing/dp/0231153686)
 * [Howard Marks' memos](https://www.oaktreecapital.com/insights/memos)
 * [Larry Swedroe](https://x.com/larryswedroe): knihy, články a podcasty, napr. [The Incredible Shrinking Alpha](https://www.amazon.com/Incredible-Shrinking-Alpha-2nd-successful/dp/0857198246)
+* [Ch. Munger: The psychology of human misjudgment](https://assets.stripeassets.com/fzn2n1nzq965/0RUnI35jpt78x10nvlO2Y/b66a46dba182182a2a0082213eafc634/SP_PCA-ZINE_2023_11_27.pdf)
 * [G. Clason: Najbohatší muž v Babylone](https://www.martinus.sk/515031-najbohatsi-muz-v-babylone/kniha) --- príbehy skôr pre deti, vhodné ako súčasť finančného vzdelávania
 * Rational Reminder --- [fórum](https://community.rationalreminder.ca/) s praktickými informáciami najmä o factor investing, seriózne podcasty, napr. https://rationalreminder.ca/podcast/299
 * [Acquired](https://www.acquired.fm/) --- fascinujúce podrobné príbehy o úspešných firmách
-

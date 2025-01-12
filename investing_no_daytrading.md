@@ -1,6 +1,6 @@
 Denné obchodovanie (daytrading, intraday trading) je forma obchodovania na finančných trhoch, pri ktorej obchodník vlastní cenný papier či iný inštrument veľmi krátko (sekundy až hodiny) s cieľom dosiahnuť rýchly zisk. Bežne sa takto obchodujú akcie, menové páry (forex), komoditné kontrakty či opcie.
 
-Dennému obchodovaniu sa vyhýbajte. Drvivá väčšina ľudí na tom len prerába peniaze. Preto majú brokeri povinnosť zverejňovať, aká časť ich obchodných účtov má stratu --- typicky to býva okolo 80%, ale toto číslo ovplyvňuje survivorship bias --- neúspešní traderi zatvárajú obchodné účty viac ako úspešní.
+Dennému obchodovaniu sa vyhýbajte. Drvivá väčšina ľudí tým len prichádza o peniaze. Preto majú brokeri povinnosť zverejňovať, aká časť ich obchodných účtov má stratu --- typicky to býva okolo 80%, ale toto číslo ovplyvňuje survivorship bias --- neúspešní traderi zatvárajú obchodné účty viac ako úspešní.
 
 Zopár [štatistík](https://tradeciety.com/24-statistics-why-most-traders-lose-money):
 * 40% would-be traderov končí už po mesiaci.
@@ -13,9 +13,9 @@ Zopár [štatistík](https://tradeciety.com/24-statistics-why-most-traders-lose-
 
 Tieto smutné štatistiky majú aj silné teoretické vysvetlenie.
 
-* Ide o hru s nulovým súčtom: niekto na tom zarobí a iný prerobí. (Oproti tomu dlhodobé investovanie do akcií prináša investorovi podiel na ziskoch firiem a tvorbe ekonomických hodnôt.) Môžete si byť istí, že na trhu je dostatok hráčov s lepším zvládaním emócií, lepšími počítačmi, lepšími stratégiami ako vy. A nie, nik z nich sa s vami nepodelí o skutočné tajomstvá, pretože väčšina stratégií nie je škálovateľných (fungujú len s malým kapitálom).
+* Ide o hru s nulovým súčtom: niekto na tom zarobí a iný prerobí. (Oproti tomu dlhodobé investovanie do akcií prináša investorovi podiel na ziskoch firiem, inováciách a tvorbe ekonomických hodnôt.) Môžete si byť istí, že na trhu je dostatok hráčov s lepším zvládaním emócií, lepšími počítačmi, lepšími stratégiami ako vy. A nie, nik z nich sa s vami nepodelí o skutočné tajomstvá, pretože väčšina stratégií nie je škálovateľných (fungujú len s malým kapitálom).
 
-* Nedá sa vyčísliť ani dobre ustrážiť riziko. Nepredvídané udalosti môžu viesť k prudkým pohybom na akciovom trhu (aj niekoľko percent agregátne a desiatky percent pre jednotlivé inštrumenty). Typický nástroj, ktorý traderi používajú na kontrolu rizika, je stop loss (automatický predaj v prípade poklesu ceny). Lenže v prípade skokového poklesu stop loss nechráni. Ani v prípade, že veľa ľudí chce predávať a nikto nechce nakupovať (čiže obchod spustený stop lossom nemá protistranu). Navyše tradera nič nechráni pred opakovanými stratami, hoci limitovanými cez stop loss. 
+* Nedá sa vyčísliť ani dobre ustrážiť riziko. Nepredvídané udalosti môžu viesť k prudkým pohybom na akciovom trhu (aj niekoľko percent agregátne a desiatky percent pre jednotlivé akcie). Typický nástroj, ktorý traderi používajú na kontrolu rizika, je stop loss (automatický predaj v prípade poklesu ceny). Lenže v prípade skokového poklesu stop loss nechráni. Ani v prípade, že veľa ľudí chce predávať a nikto nechce nakupovať (čiže obchod spustený stop lossom nemá protistranu). Navyše tradera nič nechráni pred opakovanými stratami, hoci každá z nich je limitovaná stop lossom.
 
 * Daytrading vyžaduje neustálu pozornosť a analýzu trhových dát, čo je časovo veľmi náročné. Obchodníci musia počas dňa sledovať grafy, správy a indikátory, aby správne načasovali svoje obchody (na rozdiel od akciových investorov, ktorí sa na svoju investíciu nemusia dívať ani raz ročne). Čas strávený tradingom väčšina investorov nezohľadňuje pri výpočte ziskov a strát, ale keby to spravili, štatistiky vyššie budú ešte zúfalejšie.
 

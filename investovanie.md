@@ -2,7 +2,9 @@
 
 Tento text má ambíciu byť stručným úvodom do investovania všeobecne a zároveň ponúknuť praktické rady, ako možno rozumne investovať v Európe. Predpokladá u čitateľa všeobecný rozhľad v oblasti financií a využíva aj anglické či odbornejšie výrazy (ktoré umožnia čitateľovi dohľadať si súvislosti na internete). Použité príklady finančných produktov slúžia na ilustračné účely (nemusia byť najlepšie svojho typu; poplatky sa v čase menia a nové lepšie veci pribúdajú).
 
-Hoci na prvé prečítanie môže pôsobiť zložito, nebojte sa. To, čo potrebujete vykonať na usporiadanie si finačných záležitostí, je vlastne veľmi jednoduché (povieme si neskôr). Je však kriticky dôležité rozumieť, _prečo_ konať práve takto, pretože musíte emocionálne i racionálne ustáť meniace sa okolnosti, a chápať, v ktorých prípadoch treba v živote spraviť zmeny (a aké --- [ukážka](https://www.newretirement.com/retirement/podcast-episode-35-larry-swedroe-successful-secure-retirement/)).
+Hoci na prvé prečítanie môže pôsobiť zložito, nebojte sa. To, čo potrebujete vykonať na usporiadanie si finačných záležitostí, je vlastne jednoduché. Je však kriticky dôležité rozumieť, _prečo_ konať práve takto, pretože musíte emocionálne i racionálne ustáť meniace sa okolnosti, a chápať, v ktorých prípadoch treba v živote spraviť zmeny (a aké --- [ukážka](https://www.newretirement.com/retirement/podcast-episode-35-larry-swedroe-successful-secure-retirement/)).
+
+Pre lepšie pochopenie niektorých detailov odporúčam prečítať si o [hodnote budúcich peňažných tokov](discounting.md), nie je to však nutné.
 
 ## Ako investovať?
 
@@ -58,7 +60,7 @@ Súvisiacemu konceptu sa hovorí _tail risk_: netreba zabúdať na nepravdepodob
 
 Mnohé riziká vytvárajú ľudia tým, že sa angažujú v rizikových aktivitách. Napr. súčasné autá sú mnohokrát bezpečnejšie ako niekdajšie, máme povinné bezpečnostné pásy a detské sedačky a crashtesty, ale celková nehodovosť či úmrtnosť v autách veľmi neklesli: ľudia proste jazdia rýchlejšie a menej opatrne. (Cyklisti používajú za jazdy telefón oveľa menej, ako vodiči.) Aj horolezecké vybavenie je každým rokom bezpečnejšie, ale straty na životoch neklesajú, ľudia proste lezú, kde by si kedysi netrúfli. Finančná kríza v r. 2008 bola do značnej miery spôsobená rizikovým správaním vychádzajúcim z chybného predpokladu, že hypotéky nemôžu zlyhať v celých USA zároveň. Následne ľudia pridali k zdanlivo bezpečnej investícii kopu dlhu (leverage) a keď to prasklo, prasklo to masívne.
 
-Obavy z neistej budúcnosti možno celkom dobre riešiť poistením a prípravou alternatívnych finančných plánov (spôsoby redukcie výdavkov v prípade nutnosti). Investovať bez zmysluplného celkového finančného plánu je hlúpe.
+Obavy z neistej budúcnosti možno celkom dobre riešiť [poistením](poistenie.md) a prípravou alternatívnych finančných plánov (spôsoby redukcie výdavkov v prípade nutnosti). Investovať bez zmysluplného celkového finančného plánu je hlúpe.
 >   [A lot of] risk comes from not knowing what you're doing. (W. Buffett)
 
 Väčšina ľudí príliš verí nehnuteľnostiam a málo akciám (podielom vo firmách). Pritom máme množstvo príkladov z minulosti, ktoré ukazujú, ako sa to môže nevyplatiť. Zmeny štátneho zriadenia, vojny, kolaps priemyslených oblastí (napr. automobilky v Detroite), masová emigrácia či vymieranie populácie (v Japonsku je asi tretina domov prázdnych) neraz vedú k 100% strate nehnuteľnosti. Lokálne zmeny v okolí (napr. dopravné projekty, zle regulovaná výstavba, presuny sociálnych skupín, zraniteľnosť voči povodniam) zase môžu citeľne znížiť atraktívnosť nehnuteľnosti a zraziť jej cenu nadol. Demografické trendy spojené s poklesom populácie prakticky nemajú v historických dátach precedens; nenechajte sa oklamať rastom cien nehnuteľností za posledné storočie, sotva sa zopakuje. Byt na prenajímanie v meste, kde už beztak vlastníte jednu nehnuteľnosť na bývanie, alebo v krajine, kde očakávate, že zdedíte nehnuteľnosť po rodičoch, nemusí byť z hľadiska riadenia rizika dobrý nápad.
@@ -82,7 +84,7 @@ Ešte pred investovaním si ujasnite ciele: rozumným cieľom investovania nie j
 Viac na túto tému: [čo pri investovaní optimalizujeme?](investing_optimization_goals.md) Majte na mysli, že bohatstvo má klesajúcu marginálnu utilitu --- z prvých stotisíc máte oveľa viac úžitku či pôžitku ako z druhých stotisíc.
 >   Never risk what you have and need for what you don't have and don't need. (Warren Buffett)
 
-Aký je vhodný pomer riskantných investícií (akcie, nehnuteľnosti...) a bezpečných investícií (hotovosť, štátne dlhopisy)? Na túto tému nájdete prakticky nekonečné množsto diskusií a materiálov a žiadne pevné spoľahlivé závery. Čím dlhší horizont máte, tým viac sú atraktívne akcie, ale zároveň počas dlhých období je väčšia šanca, že svet sa výrazne zmení (napr. príde vojna). Užitočným nástrojom pre úvahy o vhodnej miere rizika poskytuje [framework ability-willingness-need](ability_willingness_need.md). Pre väčšinu ľudí nemá veľký význam špekulovať nad alokáciou variabilnou v čase, ale pre sofistikovanejších investorov [potenciálne áno](https://elmwealth.com/lessons-from-betting-on-a-biased-coin-cool-heads-and-cautionary-tales/). Poklesy a medvedie trhy sa nedajú predvídať, majte vopred pripravenú stratégiu a držte sa jej.
+Aký je vhodný pomer riskantných investícií (akcie, nehnuteľnosti...) a bezpečných investícií (hotovosť, štátne dlhopisy)? Na túto tému nájdete prakticky nekonečné množsto diskusií a materiálov a žiadne pevné spoľahlivé závery. Čím dlhší horizont máte, tým viac sú atraktívne akcie, ale zároveň počas dlhých období je väčšia šanca, že svet sa výrazne zmení (napr. príde vojna). Užitočným nástrojom pre úvahy o vhodnej miere rizika poskytuje [framework ability-willingness-need](ability_willingness_need.md). Poklesy a medvedie trhy sa nedajú predvídať, majte vopred pripravenú stratégiu a držte sa jej.
 
 V princípe chcete mať veľkú finančnú rezervu v čomsi bezpečnom (termínované vklady, krátkodobé štátne dlhopisy) a potom čím viac úspor investovaných v akciách (nakoľko len viete ustáť poklesy trhu).
 
@@ -109,3 +111,6 @@ Zopár hodnotných materiálov:
 * [G. Clason: Najbohatší muž v Babylone](https://www.martinus.sk/515031-najbohatsi-muz-v-babylone/kniha) --- príbehy skôr pre deti, vhodné ako súčasť finančného vzdelávania
 * Rational Reminder --- [fórum](https://community.rationalreminder.ca/) s praktickými informáciami najmä o factor investing, seriózne podcasty, napr. https://rationalreminder.ca/podcast/299
 * [Acquired](https://www.acquired.fm/) --- fascinujúce podrobné príbehy o úspešných firmách
+* [The Price of Time: The Real Story of Interest](https://www.amazon.com/Price-Time-Real-Story-Interest-ebook/dp/B09NS1CZ7W/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)
+* [The Psychology of Money](https://www.barnesandnoble.com/w/the-psychology-of-money-morgan-housel/1136394564)
+* [N. Taleb: Incerto](https://www.mostrecommendedbooks.com/series/incerto-books-in-order) --- najmä [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)

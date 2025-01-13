@@ -13,11 +13,11 @@ Tento stručný návod pokrýva potreby veľkej časti populácie. Viac detailov
 1. Naučte sa míňať menej, ako zarobíte, splaťte všetky dlhy s vysokým úrokom (vyššie ako úroky na hypotékach) a vytvorte si rezervný fond aspoň na úrovni 3-násobku mesačných príjmov.
 2. Zriaďte si účet u [nízkonákladového online brokera](https://uspesnynaburze.sk/najlepsi-etf-broker/), ktorý umožňuje obchodovať indexové fondy v podobe ETF (napr. [XTB](https://www.xtb.com/sk) či [IBKR](https://finfin.sk/interactive-brokers-recenzia/)). Chcete jednoduchý hotovostný účet, čiže zakázané požičiavanie peňazí od brokera (margin), zakázané obchodovanie s opciami a inými derivátmi atď.
 3. Pripravte si na investovanie aspoň niekoľko sto eur (suma musí byť dostatočná na minimálny vklad a dosť veľká na vyváženie minimálneho poplatku za obchod na burze). Preveďte peniaze k brokerovi (odporúčam zvoliť si takého, kde sa to dá spraviť bezplatným SEPA prevodom).
-4. Nakúpte za všetky peniaze široko diverzifikovaný indexový fond, napr. [ETF sledujúce index MSCI World](https://www.ishares.com/uk/individual/en/products/251882/ishares-msci-world-ucits-etf-acc-fund). Stačí pár kliknutí, dôsledne si však overte, čo kupujete --- porovnajte ticker aj kód ISIN a dajte si pozor, aby ste neinvestovali do nejakého derivátového nástroja (napr. kontraktu CFD súvisiaceho so želaným ETF).
+4. Nakúpte za všetky peniaze široko diverzifikovaný indexový fond, napr. [ETF sledujúce index MSCI World](https://www.ishares.com/uk/individual/en/products/251882/ishares-msci-world-ucits-etf-acc-fund). Stačí pár kliknutí, dôsledne si však overte, čo kupujete --- porovnajte ticker (mal by byť uvedený v čomsi ako "Listings" na stránke ETF) aj kód ISIN a dajte si pozor, aby ste neinvestovali do nejakého derivátového nástroja (napr. kontraktu CFD súvisiaceho so želaným ETF). Ako kontrolu, či ste našli správny cenný papier, porovnajte jeho cenu u brokera s cenou, ktorú uvádza burza, na ktorej sa obchoduje (pre európske ETF to bežne býva nemecká [XETRA](https://www.boerse-frankfurt.de/en/etf/ishares-core-msci-world-ucits-etf)).
 5. Keď znova našetríte ďalšie peniaze (napr. za mesiac či štvrťrok), investujte ich tak isto.
 6. Investície nepredávajte (okrem vynútených prípadov, napr. súvisiacich s úmrtím v rodine). Pri predaji pozor na dane.
 
-Miesto brokera možno využiť finančnú inštitúciu či sprostredkovateľa, napr. [SLSP](https://www.slsp.sk/sk/ludia/investovanie/etf-fondy) alebo 3. pilier (napr. [NN](https://www.financnykompas.sk/dochodok-3-pilier) tam má indexový fond). Je to však zvyčajne poplatkovo menej výhodné; dajte si pozor najmä na poplatky platené opakovane (napr. každý rok), ich efekt sa za desaťročia prejaví oveľa výraznejšie, než sa zdá na prvý pohľad (za 30-40 rokov môžete mať aj o štvrtinu peňazí menej). Vo všeobecnosti dáva zmysel zamerať sa na veci, nad ktorými máte kontrolu (poplatky, dane, úspory vs. výdavky), nie tie ostatné (výnosy akciového trhu, nálada iných investorov apod.).
+Miesto brokera možno využiť finančnú inštitúciu či sprostredkovateľa, napr. [SLSP](https://www.slsp.sk/sk/ludia/investovanie/etf-fondy), 3. pilier (napr. [NN](https://www.financnykompas.sk/dochodok-3-pilier) tam má indexový fond) alebo [celoeurópsky PEPP](https://www.employment.gov.sk/sk/socialne-poistenie-dochodkovy-system/dochodkovy-system/dobrovolne-sporenie-dochodok/celoeuropsky-osobny-dochodkovy-produkt/). Je to však zvyčajne poplatkovo menej výhodné; dajte si pozor najmä na poplatky platené opakovane (každý mesiac či rok), ich efekt sa za desaťročia prejaví oveľa výraznejšie, než sa zdá na prvý pohľad (za 30-40 rokov môžete mať aj o štvrtinu peňazí menej). Vo všeobecnosti dáva zmysel zamerať sa na veci, nad ktorými máte kontrolu (poplatky, dane, úspory vs. výdavky), nie tie ostatné (výnosy akciového trhu, nálada iných investorov apod.).
 
 Nasleduje stručné zdôvodnenie tohto návodu.
 1. [Investovať do rizikovejších aktív je nutné.](investing_necessary_risk.md)
@@ -33,12 +33,13 @@ Nasleduje stručné zdôvodnenie tohto návodu.
 11. [Neinvestujte podľa makroekonomických predpovedí.](investing_macro_unreliable.md)
 12. [Nehľadajte v investovaní zábavu ani vzrušenie.](investing_enjoyment.md)
 
-Veľmi užitočný prehľad rôznych faktov o investovaní nájdete aj v dokumente
+Užitočný prehľad rôznych faktov o investovaní nájdete aj v dokumente
 [50 obrázkov, ktoré by mal poznať každý investor](https://brianferoldi.kit.com/50visuals).
 
 Dávajte si pozor na [kognitívne skreslenia](https://en.wikipedia.org/wiki/List_of_cognitive_biases), ktoré spôsobuje ľudská myseľ. Je veľmi ľahké oklamať sám seba, a tieto skreslenia radi využívajú aj kadejakí podvodníci a manipulátori.
 
 Keď raz spravíte dobré rozhodnutie, je kriticky dôležité vytrvať pri ňom. Nedáva zmysel meniť investičnú stratégiu každú chvíľu, dokonca ani každých pár rokov.
+
 
 ## Manažovanie, kontrola, riadenie rizika
 
@@ -70,21 +71,22 @@ V špecifických osobných situáciách viete investovaním oslabiť riziká, kt
 Niektoré udalosti sú veľmi nepravdepodobné, ale vedú k masívnym škodám. Scenáre ako jadrová vojna, celosvetová nemožnosť pestovať potraviny po výbuchu sopky, zničujúca pandémia atď. existujú, ale v podstate s nimi človek ako jednotlivec nevie spraviť nič. Typicky sú aj vylúčené z poistenia. Vo všeobecnosti dáva zmysel pristupovať k nim takto: ak nebude čo jesť alebo umieram na radiáciu alebo nik nemá elektrinu, moje akciové investície ma veľmi zaujímať nebudú, bez ohľadu na ich straty. Tieto druhy rizika sa proste neriešia na úrovni investícií či peňazí vôbec (ale môže sa z vás stať _prepper_). Budeme ich preto pri finančom plánovaní ignorovať.
 > Never bet on the end of the world, you'll only be right once and you won't be able to collect.
 
+
 ## Koľko investovať do akcií?
 
 Je plne na vás, aké riziká sa rozhodnete podstúpiť. Najväčší vplyv na konečný výsledok však bude mať to, či sa viete vysporiadať s _volatilitou_ (výkyvmi) a najmä s dočasnými poklesmi cien. Ak si kúpite podiel vo firme obchodovanej na burze (akcie), jeho trhová cena sa bude meniť v každom momente, a ak ju budete sledovať, má to nezanedbateľný psychologický vplyv. A situáciu na trhoch sledovať skoro iste budete: bude sa to rozoberať v novinách, medzi kolegami v práci...
 
 Aj akcie najstabilnejších firiem môžu klesnúť za pár týždňov či mesiacov o desiatky percent kvôli zmenenej nálade ostatných investorov či kvôli nečakaným udalostiam (bankrot veľkej banky, pandémia, nedostatok ropy...). Ak akcie v takejto nevýhodnej chvíli predáte, prídete o celý potenciálny budúci zisk z ich opätovného rastu. Nie každý však dokáže nepredávať pri poklesoch. Nepodceňujte to: podľa [štúdií](https://fitz.com.au/why-do-investors-earn-less-than-the-funds-they-invest-in/) investori dosahujú aj o 3% menší výnos než fondy, do ktorých investujú, pretože opakovane v nevhodný čas veci nakupujú a predávajú --- bolo by lepšie, keby po úvodnom nákupe už nerobili nič.
 
->	Zistite o sebe čím skôr, ako prežívate pokles hodnoty investície. Na to treba investovať do niečoho s veľkými výkyvmi (napr. akcie) sumu, ktorej stratu už poriadne precítite (niekoľkomesačný až ročný príjem by mohlo byť dosť). Ak pri poklese nemôžete v noci pokojne spať, alebo o investícii denne premýšľate, musíte to zohľadniť vo svojej investičnej stratégii. Pozor: [_neverte dotazníkom_](https://www.evidenceinvestor.com/how-useful-are-risk-tolerance-questionnaires/) s hypotetickými otázkami; je ľahké sa oklamať, ak ste nikdy stratu z investície nezažili. Vaša tolerancia k riziku pri investovaní môže byť výrazne odlišná od rizikovej tolerancie v iných životných aktivitách.
+> Zistite o sebe čím skôr, ako prežívate pokles hodnoty investície. Na to treba investovať do niečoho s veľkými výkyvmi (napr. akcie) sumu, ktorej stratu už poriadne precítite (niekoľkomesačný až ročný príjem by mohlo byť dosť). Ak pri poklese nemôžete v noci pokojne spať, alebo o investícii denne premýšľate, musíte to zohľadniť vo svojej investičnej stratégii. Pozor: [_neverte dotazníkom_](https://www.evidenceinvestor.com/how-useful-are-risk-tolerance-questionnaires/) s hypotetickými otázkami; je ľahké sa oklamať, ak ste nikdy stratu z investície nezažili. Vaša tolerancia k riziku pri investovaní môže byť výrazne odlišná od rizikovej tolerancie v iných životných aktivitách.
 
 Investovanie je aktivita, kde sa dobré výsledky dosahujú najmä tým, že sa vyhýbate známym chybám (napr. pri [vyhodnocovaní rozhodnutí](evaluating_decisions.md)).
 
 Ešte pred investovaním si ujasnite ciele: rozumným cieľom investovania nie je maximalizovať zisk, ale maximalizovať pravdepodobnosť, že dosiahnete svoje ciele.
-Viac na túto tému: [čo pri investovaní optimalizujeme?](investing_optimization_goals.md) Majte na mysli, že bohatstvo má klesajúcu marginálnu utilitu --- z prvých stotisíc máte oveľa viac úžitku či pôžitku ako z druhých stotisíc.
->   Never risk what you have and need for what you don't have and don't need. (Warren Buffett)
+Viac na túto tému: [čo pri investovaní optimalizujeme?](investing_optimization_goals.md) Majte na mysli, že bohatstvo má klesajúci úžitok (_decreasing marginal utility_) --- z prvých stotisíc máte oveľa viac úžitku či pôžitku ako z druhých stotisíc.
+> Never risk what you have and need for what you don't have and don't need. (Warren Buffett)
 
-Aký je vhodný pomer riskantných investícií (akcie, nehnuteľnosti...) a bezpečných investícií (hotovosť, štátne dlhopisy)? Na túto tému nájdete prakticky nekonečné množsto diskusií a materiálov a žiadne pevné spoľahlivé závery. Čím dlhší horizont máte, tým viac sú atraktívne akcie, ale zároveň počas dlhých období je väčšia šanca, že svet sa výrazne zmení (napr. príde vojna). Užitočným nástrojom pre úvahy o vhodnej miere rizika poskytuje [framework ability-willingness-need](ability_willingness_need.md). Poklesy a medvedie trhy sa nedajú predvídať, majte vopred pripravenú stratégiu a držte sa jej.
+Aký je vhodný pomer riskantných investícií (akcie, nehnuteľnosti...) a bezpečných investícií (hotovosť, štátne dlhopisy)? Na túto tému nájdete prakticky nekonečné množstvo diskusií a materiálov a žiadne pevné spoľahlivé závery. Čím dlhší horizont máte, tým viac sú atraktívne akcie, ale zároveň počas dlhých období je väčšia šanca, že svet sa výrazne zmení (napr. príde vojna) a vaše akciové investície sa znehodnotia. Užitočným nástrojom pre úvahy o vhodnej miere rizika je [framework ability-willingness-need](ability_willingness_need.md). Poklesy a medvedie trhy (_bear markets_) sa nedajú predvídať, majte vopred pripravenú stratégiu a držte sa jej.
 
 V princípe chcete mať veľkú finančnú rezervu v čomsi bezpečnom (termínované vklady, krátkodobé štátne dlhopisy) a potom čím viac úspor investovaných v akciách (nakoľko len viete ustáť poklesy trhu).
 

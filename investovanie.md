@@ -88,18 +88,13 @@ Aký je vhodný pomer riskantných investícií (akcie, nehnuteľnosti...) a bez
 
 V princípe chcete mať veľkú finančnú rezervu v čomsi bezpečnom (termínované vklady, krátkodobé štátne dlhopisy) a potom čím viac úspor investovaných v akciách (nakoľko len viete ustáť poklesy trhu).
 
-
-## Investovať požičané peniaze?
-
-Predstavme si situáciu, že si požičiam peniaze v banke za 4% a investujem ich do akcií s očakávaným výnosom povedzme 8-10%. Mal by som to urobiť?
-
-Na túto otázku neexistuje jednoznačná odpoveď. Fakt je, že dlh znižuje šancu na prežitie tým, že [zmenšuje rozsah](https://collabfund.com/blog/how-i-think-about-debt/) negatívnych udalostí, ktoré po finančnej stránke prežijete. Zároveň za bežných okolností zvyšuje výnosy. Ak chcete využívať pri investovaní dlh, dajte si pozor, aby ste sa nevystavovali existenčným rizikám. Vyhýbajte sa investovaniu peňazí, ktoré majú krátku dobu do splatnosti --- de facto je jediný vhodný zdroj peňazí hypotéka s čo najdlhšou splatnosťou a čo najdlhšou fixáciou úrokovej sadzby (nie napr. spotrebné úvery so splatnosťou niekoľko rokov). Väčšina ľudí nie je v pozícii splatiť hypotéku rýchlo či rovno si kúpiť nehnuteľnosť za hotovosť, neznamená to však, že nesmú investovať po väčšinu svojho života --- naopak, je dôležité začať investovať už v mladosti.
+Významnou témou je tiež vzťah [hypotéky a investovania](mortgage.md).
 
 
 ## Literatúra
 
 Dajte si pozor, aby ste čítaniu o investovaní nevenovali priveľa času, ak to nie je váš profesionálny záujem či hobby.
-Zopár hodnotných materiálov:
+Zopár hodnotných materiálov (väčšinou zdarma, viaceré knihy by mohli byť aj v slovenských knižniciach):
 
 * [Benjamin Graham: The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Third-Definitive-Investing/dp/0063423529)
 * [Poor Charlie's almanack](https://www.stripe.press/poor-charlies-almanack)

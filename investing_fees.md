@@ -12,7 +12,7 @@ Nákladom súvisiacim s investovaním venujeme len málo priestoru, lebo v dneš
 
 * Poplatky za menovú konverziu. Niekedy schované v podobe nevýhodného kurzu u brokera; neraz aj viac ako 2%. Najlepšie je nerobiť zbytočné menové konverzie a investovať do ETF obchodovaného v EUR. Výrazne to tiež zjednoduší prípadnú daňovú administratívu.
 
-* Bankové poplatky. Niektorí brokeri majú spoplatený vklad či výber z obchodného účtu, prípadne kartové transakcie.
+* Bankové poplatky. Niektorí brokeri majú spoplatnený vklad či výber z obchodného účtu, prípadne kartové transakcie.
 
 * Dane. Pred investovaním si vždy preverte aktuálne zákony. Väčšina krajín v nejakej podobe zvýhodňuje investovanie. Napr. v SR (r. 2024) sa neplatí daň z príjmu po predaji na burze obchodovaného cenného papiera, ktorý investor vlastnil viac ako 1 rok (toto oslobodenie sa nevzťahuje na neverejné cenné papiere ani klasické podielové fondy); v ČR sú to tuším tri roky; v USA majú zvýhodnené obchodné účty, z ktorých pred dôchodkom nemožno vyberať peniaze, ale medzitým sa neplatí daň z kapitálových ziskov. V SR máme symbolické oslobodenie pre 180 eur ročne pre vklady do 3. piliera (vzhľadom na výšku poplatkov v 3. pilieri však dáva zmysel využiť ho asi len vtedy, keď prispieva aj zamestnávateľ a svoj príspevok podmieňuje príspevkom zamestnanca). Kľúčové je vnímať, že zdaňovanie až na konci je výhodnejšie ako priebežné platenie dane (za predpokladu rovnakej sadzby dane).
 

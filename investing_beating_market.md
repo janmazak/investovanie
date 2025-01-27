@@ -25,6 +25,8 @@ Stručný zoznam dôvodov, prečo trh neprekonáte:
 
 10. Nefunguje ani tzv. [časovanie trhu (market timing)](investing_market_timing.md).
 
+11. Pri väčšine ľudských činností čím viac znalostí a čím viac praxe, tým vyšší výkon či vyššia kvalita. Pri investovaní to tak nefunguje. Rastúce znalosti a skúsenosti vo vás akurát vyvolávajú klamlivý dojem, že niečomu rozumiete. Chvíľu sa zdá, že to funguje, potom sa vo svete čosi zmení, nejaké riziko sa materializuje, a ste o skúsenosť bohatší, ale o peniaze chudobnejší... Ak chcete, aby znalosti a skúsenosti viedli k lepšiemu výstupu, alebo chcete mať na výstupy významný vplyv, môžete sa pustiť do nejakého podnikania a mať aj vlastnú firmu miesto iba podielov v cudzích. Samozrejme, niektoré znalosti sú užitočné, napr. ako sa vyhnúť zbytočným poplatkom, ako zdaňovať výnosy, a kadečo uvedené v tomto texte, ale klamlivý je pocit vedomia o tom, ktoré aktíva budú rásť a ktoré klesať, či iné naivné predstavy o tom, ako zarobiť viac, než zodpovedá riziku, či viac, než aktuálne ponúka priemer trhu.
+
 Jednu z prvých serióznych kníh o investovaní napísal v r. 1934 Benjamin Graham (známy okrem iného dlhoročnými nadmernými výnosmi). Toto je však jeho názor okolo roku 1970 (z doby, keď sme prakticky ešte nemali počítače!):
 >   I am no longer an advocate of elaborate techniques of security analysis in order to find superior value opportunities. This was a rewarding activity, say, 40 years ago, when [my book] was first published; but the situation has changed. I doubt whether such extensive efforts will generate sufficiently superior selections to justify their cost.
 

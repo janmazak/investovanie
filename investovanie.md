@@ -1,11 +1,15 @@
 # Prečo a ako investovať
 
-Hlavným cieľom tohto textu je ukázať čitateľovi, ako možno rozumne investovať, a na čo pri tom treba myslieť. Hoci na prvé prečítanie môže text pôsobiť zložito, nebojte sa. To, čo potrebujete vykonať na usporiadanie si finančných záležitostí, je vlastne jednoduché. Je však kriticky dôležité rozumieť, _prečo_ konať práve takto, pretože musíte emocionálne i racionálne ustáť meniace sa okolnosti, a chápať, v ktorých prípadoch treba v živote spraviť zmeny (a aké --- [ukážka](https://www.newretirement.com/retirement/podcast-episode-35-larry-swedroe-successful-secure-retirement/)).
+Hlavným cieľom tohto textu je ukázať čitateľovi, ako možno rozumne investovať, a na čo pri tom treba myslieť. Hoci na prvé prečítanie môže text pôsobiť zložito, nebojte sa (a pokojne náročnejšie pasáže preskočte, aspoň spočiatku). To, čo potrebujete vykonať na usporiadanie si finančných záležitostí, je vlastne jednoduché. Je však kriticky dôležité rozumieť, _prečo_ konať práve takto, pretože musíte emocionálne i racionálne ustáť meniace sa okolnosti, a chápať, v ktorých prípadoch treba v živote spraviť zmeny (a aké --- [ukážka](https://www.newretirement.com/retirement/podcast-episode-35-larry-swedroe-successful-secure-retirement/)). Odporúčame prečítať text niekoľkokrát, azda vám niektoré časti budú dávať väčší zmysel pri opätovnom čítaní.
 
-Väčšinu textu tvoria vysvetlenia, ktorým nemusíte celkom rozumieť, uvádzame ich však pre úplnosť a pre hĺbavejších čitateľov. Text využíva aj odbornejšie a anglické výrazy, ktoré uľahčia prípadné dohľadanie súvislostí. Časť faktov uvádzaných v texte možno pokladať za všeobecne známe a autor sa nenamáhal citovať konkrétne zdroje, občas sa však vyskytujú odkazy na akademickú literatúru. (Text sa snaží byť plne v súlade s výskumom; ak objavíte nejaké nezrovnalosti, dajte mi prosím vedieť, napr. emailom na adresu _jan.mazak@fmph.uniba.sk_.)
+Väčšinu textu tvoria vysvetlenia, ktorým nemusíte celkom rozumieť, uvádzame ich však pre úplnosť a pre hĺbavejších čitateľov. Text využíva aj odbornejšie a anglické výrazy, ktoré uľahčia prípadné dohľadanie súvislostí. Časť faktov uvádzaných v texte možno pokladať za veci všeobecne známe a autor sa nenamáhal citovať konkrétne zdroje, občas sa však vyskytujú odkazy na akademickú literatúru. (Text sa snaží byť plne v súlade s výskumom a dobrou praxou; ak objavíte nejaké nezrovnalosti, alebo máte nápad, čo doplniť či upraviť, dajte mi prosím vedieť, napr. emailom na adresu _jan.mazak@fmph.uniba.sk_.)
 
 Použité príklady finančných produktov slúžia na ilustračné účely (nemusia byť najlepšie svojho typu; poplatky sa v čase menia a nové lepšie veci pribúdajú).
 Pre lepšie pochopenie niektorých detailov odporúčam prečítať si o [hodnote budúcich peňažných tokov](discounting.md), nie je to však nutné.
+
+Poznámka: Text nie je finančným poradenstvom v zmysle zákona; autor nie je registrovaným finančným profesionálom a nepreberá zodpovednosť za prípadné straty.
+Závažnejšie rozhodnutia by ste nikdy nemali robiť na základe jediného textu.
+
 
 ## Ako investovať?
 
@@ -13,8 +17,8 @@ Tento stručný návod pokrýva potreby veľkej časti populácie. Viac detailov
 
 1. Naučte sa míňať menej, ako zarobíte, splaťte všetky dlhy s vysokým úrokom (vyššie ako úroky na hypotékach) a vytvorte si rezervný fond aspoň na úrovni 3-násobku mesačných príjmov.
 2. Zriaďte si účet u [nízkonákladového online brokera](https://uspesnynaburze.sk/najlepsi-etf-broker/), ktorý umožňuje obchodovať indexové fondy v podobe ETF (napr. [XTB](https://www.xtb.com/sk) či [IBKR](https://finfin.sk/interactive-brokers-recenzia/)). Chcete jednoduchý hotovostný účet, čiže zakázané požičiavanie peňazí od brokera (margin), zakázané obchodovanie s opciami a inými derivátmi atď.
-3. Pripravte si na investovanie aspoň niekoľko sto eur (suma musí byť dostatočná na minimálny vklad a dosť veľká na vyváženie minimálneho poplatku za obchod na burze). Preveďte peniaze k brokerovi (odporúčam zvoliť si takého, kde sa to dá spraviť bezplatným SEPA prevodom).
-4. Nakúpte za všetky peniaze široko diverzifikovaný indexový fond, napr. [ETF sledujúce index MSCI World](https://www.ishares.com/uk/individual/en/products/251882/ishares-msci-world-ucits-etf-acc-fund). Stačí pár kliknutí, dôsledne si však overte, čo kupujete --- porovnajte ticker (mal by byť uvedený v čomsi ako "Listings" na stránke ETF) aj kód ISIN a dajte si pozor, aby ste neinvestovali do nejakého derivátového nástroja (napr. kontraktu CFD súvisiaceho so želaným ETF). Ako kontrolu, či ste našli správny cenný papier, porovnajte jeho cenu u brokera s cenou, ktorú uvádza burza, na ktorej sa obchoduje (pre európske ETF to bežne býva nemecká [XETRA](https://www.boerse-frankfurt.de/en/etf/ishares-core-msci-world-ucits-etf)).
+3. Pripravte si na investovanie niekoľko sto či tisíc eur (suma musí byť dostatočná na minimálny vklad a dosť veľká na vyváženie minimálneho poplatku za obchod na burze). Preveďte peniaze k brokerovi (odporúčam zvoliť si takého, kde sa to dá spraviť bezplatným SEPA prevodom).
+4. Nakúpte za všetky peniaze široko diverzifikovaný indexový fond, napr. ETF sledujúce [index MSCI World](https://www.ishares.com/uk/individual/en/products/251882/ishares-msci-world-ucits-etf-acc-fund) alebo [americký S&P 500](https://www.ishares.com/uk/professional/en/products/253743/ishares-sp-500-b-ucits-etf-acc-fund). Stačí pár kliknutí, dôsledne si však overte, čo kupujete --- porovnajte ticker (mal by byť uvedený v čomsi ako "Listings" na stránke ETF) aj kód ISIN a dajte si pozor, aby ste neinvestovali do nejakého derivátového nástroja (napr. kontraktu CFD súvisiaceho so želaným ETF). Ako kontrolu, či ste našli správny cenný papier, porovnajte jeho cenu u brokera s cenou, ktorú uvádza burza, na ktorej sa obchoduje (pre európske ETF to bežne býva nemecká [XETRA](https://www.boerse-frankfurt.de/en/etf/ishares-core-msci-world-ucits-etf)).
 5. Keď znova našetríte ďalšie peniaze (napr. za mesiac či štvrťrok), investujte ich tak isto.
 6. Investície nepredávajte (okrem vynútených prípadov, napr. súvisiacich s úmrtím v rodine). Pri predaji [pozor na dane](https://podpora.financnasprava.sk/798719-Oslobodenie-pr%C3%ADjmov-z-predaja-cenn%C3%BDch-papierov).
 
@@ -120,6 +124,7 @@ Toto je veľká téma samé osebe, ale pre investovanie veľmi relevantné: ak v
 Dajte si pozor, aby ste čítaniu o investovaní nevenovali priveľa času, ak to nie je váš profesionálny záujem či hobby.
 Zopár hodnotných materiálov (väčšinou zdarma, viaceré knihy by mohli byť aj v slovenských knižniciach):
 
+* [Bogleheads](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investing_start-up_kit_for_non-US_investors) --- základné rady k investovaniu mimo USA, fórum na kladenie otázok (J. Bogle bol pionierom nízkonákladového indexového investovania)
 * [Benjamin Graham: The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Third-Definitive-Investing/dp/0063423529)
 * [Poor Charlie's almanack](https://www.stripe.press/poor-charlies-almanack)
 * [Warren Buffett's letters to Berkshire Hathaway shareholders](https://www.berkshirehathaway.com/letters/letters.html)

@@ -1,9 +1,10 @@
 # Prečo a ako investovať
 
-Tento text má ambíciu byť stručným úvodom do investovania všeobecne a zároveň ponúknuť praktické rady, ako možno rozumne investovať v Európe. Predpokladá u čitateľa všeobecný rozhľad v oblasti financií a využíva aj anglické či odbornejšie výrazy (ktoré umožnia čitateľovi dohľadať si súvislosti na internete). Použité príklady finančných produktov slúžia na ilustračné účely (nemusia byť najlepšie svojho typu; poplatky sa v čase menia a nové lepšie veci pribúdajú).
+Hlavným cieľom tohto textu je ukázať čitateľovi, ako možno rozumne investovať, a na čo pri tom treba myslieť. Hoci na prvé prečítanie môže text pôsobiť zložito, nebojte sa. To, čo potrebujete vykonať na usporiadanie si finančných záležitostí, je vlastne jednoduché. Je však kriticky dôležité rozumieť, _prečo_ konať práve takto, pretože musíte emocionálne i racionálne ustáť meniace sa okolnosti, a chápať, v ktorých prípadoch treba v živote spraviť zmeny (a aké --- [ukážka](https://www.newretirement.com/retirement/podcast-episode-35-larry-swedroe-successful-secure-retirement/)).
 
-Hoci na prvé prečítanie môže pôsobiť zložito, nebojte sa. To, čo potrebujete vykonať na usporiadanie si finančných záležitostí, je vlastne jednoduché. Je však kriticky dôležité rozumieť, _prečo_ konať práve takto, pretože musíte emocionálne i racionálne ustáť meniace sa okolnosti, a chápať, v ktorých prípadoch treba v živote spraviť zmeny (a aké --- [ukážka](https://www.newretirement.com/retirement/podcast-episode-35-larry-swedroe-successful-secure-retirement/)).
+Väčšinu textu tvoria vysvetlenia, ktorým nemusíte celkom rozumieť, uvádzame ich však pre úplnosť a pre hĺbavejších čitateľov. Text využíva aj odbornejšie a anglické výrazy, ktoré uľahčia prípadné dohľadanie súvislostí. Časť faktov uvádzaných v texte možno pokladať za všeobecne známe a autor sa nenamáhal citovať konkrétne zdroje, občas sa však vyskytujú odkazy na akademickú literatúru. (Text sa snaží byť plne v súlade s výskumom; ak objavíte nejaké nezrovnalosti, dajte mi prosím vedieť, napr. emailom na adresu _jan.mazak@fmph.uniba.sk_.)
 
+Použité príklady finančných produktov slúžia na ilustračné účely (nemusia byť najlepšie svojho typu; poplatky sa v čase menia a nové lepšie veci pribúdajú).
 Pre lepšie pochopenie niektorých detailov odporúčam prečítať si o [hodnote budúcich peňažných tokov](discounting.md), nie je to však nutné.
 
 ## Ako investovať?
@@ -26,12 +27,12 @@ Nasleduje stručné zdôvodnenie tohto návodu.
 4. [Nie každé riziko sa oplatí niesť.](investing_dangerous_risks.md)
 5. [Trh neporazíte.](investing_beating_market.md)
 6. [Denné obchodovanie je cesta do pekla.](investing_no_daytrading.md)
-7. [Vyhýbajte sa poplatkom.](investing_fees.md)
-8. [Nekonajte na základe príbehov.](investing_narratives.md)
+7. [Nekonajte na základe príbehov.](investing_narratives.md)
+8. [Pre dlhodobé investovanie sú akcie vhodnejšie ako dlhopisy.](stocks_vs_bonds.md)
 9. [Neverte historickým výnosom.](investing_past_returns.md)
-10. [Pre dlhodobé investovanie sú akcie vhodnejšie ako dlhopisy.](stocks_vs_bonds.md)
-11. [Neinvestujte podľa makroekonomických predpovedí.](investing_macro_unreliable.md)
-12. [Nehľadajte v investovaní zábavu ani vzrušenie.](investing_enjoyment.md)
+10. [Neinvestujte podľa makroekonomických predpovedí.](investing_macro_unreliable.md)
+11. [Nehľadajte v investovaní zábavu ani vzrušenie.](investing_enjoyment.md)
+12. [Vyhýbajte sa poplatkom.](investing_fees.md)
 
 Užitočný prehľad rôznych faktov o investovaní nájdete aj v dokumente
 [50 obrázkov, ktoré by mal poznať každý investor](https://brianferoldi.kit.com/50visuals).
